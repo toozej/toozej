@@ -12,13 +12,13 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [photos2map](https://github.com/toozej/photos2map) - Generate GPX map from photos' EXIF data (4 days ago)
-- [url2anki](https://github.com/toozej/url2anki) - Generate Anki flashcards from a URL (5 days ago)
+- [photos2map](https://github.com/toozej/photos2map) - Generate GPX map from photos' EXIF data (5 days ago)
+- [url2anki](https://github.com/toozej/url2anki) - Generate Anki flashcards from a URL (6 days ago)
 - [golang-starter](https://github.com/toozej/golang-starter) - Golang starter template (2 weeks ago)
 - [rss2mastodon](https://github.com/toozej/rss2mastodon) - Watches a RSS feed for new posts, then announces them on Mastodon (2 weeks ago)
 - [ghreleases2rss](https://github.com/toozej/ghreleases2rss) - Subscribe to GitHub projects’ releases in RSS reader (2 weeks ago)
 - [RSSFFS](https://github.com/toozej/RSSFFS) - RSS Feed Finder [and] Subscriber (2 weeks ago)
 - [travels](https://github.com/toozej/travels) - Travels and Adventures (3 weeks ago)
 - [photos](https://github.com/toozej/photos) -  (3 weeks ago)
-- [chips](https://github.com/toozej/chips) - Spotify to Youtube Music "CHIPS" Playlist Cloner (4 weeks ago)
+- [chips](https://github.com/toozej/chips) - Spotify to Youtube Music "CHIPS" Playlist Cloner (1 month ago)
 - [ghouls](https://github.com/toozej/ghouls) - Simple Go-based URL Bookmarking Service (1 month ago)

@@ -12,8 +12,8 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [RSSFFS](https://github.com/toozej/RSSFFS) - RSS Feed Finder [and] Subscriber (4 days ago)
-- [photos2map](https://github.com/toozej/photos2map) - Generate GPX map from photos' EXIF data (4 days ago)
+- [RSSFFS](https://github.com/toozej/RSSFFS) - RSS Feed Finder [and] Subscriber (5 days ago)
+- [photos2map](https://github.com/toozej/photos2map) - Generate GPX map from photos' EXIF data (5 days ago)
 - [ghreleases2rss](https://github.com/toozej/ghreleases2rss) - Subscribe to GitHub projects’ releases in RSS reader (1 week ago)
 - [EXIFizer](https://github.com/toozej/EXIFizer) - Bulk EXIF Tagger for Film Photography (1 week ago)
 - [golang-starter](https://github.com/toozej/golang-starter) - Golang starter template (1 week ago)

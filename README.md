@@ -12,13 +12,13 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [ansible](https://github.com/toozej/ansible) - Ansible (1 day ago)
-- [genARTrated](https://github.com/toozej/genARTrated) - A home for generated art (2 days ago)
-- [RSSFFS](https://github.com/toozej/RSSFFS) - RSS Feed Finder [and] Subscriber (2 days ago)
-- [neovimfiles](https://github.com/toozej/neovimfiles) -  (2 days ago)
-- [git-peak-extended](https://github.com/toozej/git-peak-extended) - Quickly grab git repos temporarily or permanently (2 days ago)
-- [finas](https://github.com/toozej/finas) - FINAS Is Not A Shell (2 days ago)
-- [python-starter](https://github.com/toozej/python-starter) - python-starter (2 days ago)
-- [url2anki](https://github.com/toozej/url2anki) - Generate Anki flashcards from a URL (2 days ago)
-- [neovim-ci](https://github.com/toozej/neovim-ci) -  (2 days ago)
-- [photos2map](https://github.com/toozej/photos2map) - Generate GPX map from photos' EXIF data (2 days ago)
+- [ansible](https://github.com/toozej/ansible) - Ansible (2 days ago)
+- [genARTrated](https://github.com/toozej/genARTrated) - A home for generated art (3 days ago)
+- [RSSFFS](https://github.com/toozej/RSSFFS) - RSS Feed Finder [and] Subscriber (3 days ago)
+- [neovimfiles](https://github.com/toozej/neovimfiles) -  (3 days ago)
+- [git-peak-extended](https://github.com/toozej/git-peak-extended) - Quickly grab git repos temporarily or permanently (3 days ago)
+- [finas](https://github.com/toozej/finas) - FINAS Is Not A Shell (3 days ago)
+- [python-starter](https://github.com/toozej/python-starter) - python-starter (3 days ago)
+- [url2anki](https://github.com/toozej/url2anki) - Generate Anki flashcards from a URL (3 days ago)
+- [neovim-ci](https://github.com/toozej/neovim-ci) -  (3 days ago)
+- [photos2map](https://github.com/toozej/photos2map) - Generate GPX map from photos' EXIF data (3 days ago)

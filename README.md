@@ -12,13 +12,13 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [ansible](https://github.com/toozej/ansible) - Ansible (3 days ago)
-- [genARTrated](https://github.com/toozej/genARTrated) - A home for generated art (4 days ago)
-- [RSSFFS](https://github.com/toozej/RSSFFS) - RSS Feed Finder [and] Subscriber (4 days ago)
-- [neovimfiles](https://github.com/toozej/neovimfiles) -  (4 days ago)
-- [git-peak-extended](https://github.com/toozej/git-peak-extended) - Quickly grab git repos temporarily or permanently (4 days ago)
-- [finas](https://github.com/toozej/finas) - FINAS Is Not A Shell (4 days ago)
-- [python-starter](https://github.com/toozej/python-starter) - python-starter (4 days ago)
-- [url2anki](https://github.com/toozej/url2anki) - Generate Anki flashcards from a URL (4 days ago)
-- [neovim-ci](https://github.com/toozej/neovim-ci) -  (4 days ago)
-- [photos2map](https://github.com/toozej/photos2map) - Generate GPX map from photos' EXIF data (4 days ago)
+- [git-peak-extended](https://github.com/toozej/git-peak-extended) - Quickly grab git repos temporarily or permanently (1 day ago)
+- [ansible](https://github.com/toozej/ansible) - Ansible (4 days ago)
+- [genARTrated](https://github.com/toozej/genARTrated) - A home for generated art (5 days ago)
+- [RSSFFS](https://github.com/toozej/RSSFFS) - RSS Feed Finder [and] Subscriber (5 days ago)
+- [python-starter](https://github.com/toozej/python-starter) - python-starter (5 days ago)
+- [finas](https://github.com/toozej/finas) - FINAS Is Not A Shell (5 days ago)
+- [travels](https://github.com/toozej/travels) - Travels and Adventures (5 days ago)
+- [url2anki](https://github.com/toozej/url2anki) - Generate Anki flashcards from a URL (5 days ago)
+- [photos2map](https://github.com/toozej/photos2map) - Generate GPX map from photos' EXIF data (5 days ago)
+- [neovimfiles](https://github.com/toozej/neovimfiles) -  (5 days ago)

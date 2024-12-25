@@ -12,13 +12,13 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [git-peak-extended](https://github.com/toozej/git-peak-extended) - Quickly grab git repos temporarily or permanently (1 day ago)
-- [ansible](https://github.com/toozej/ansible) - Ansible (4 days ago)
-- [genARTrated](https://github.com/toozej/genARTrated) - A home for generated art (5 days ago)
-- [RSSFFS](https://github.com/toozej/RSSFFS) - RSS Feed Finder [and] Subscriber (5 days ago)
-- [python-starter](https://github.com/toozej/python-starter) - python-starter (5 days ago)
-- [finas](https://github.com/toozej/finas) - FINAS Is Not A Shell (5 days ago)
-- [travels](https://github.com/toozej/travels) - Travels and Adventures (5 days ago)
-- [url2anki](https://github.com/toozej/url2anki) - Generate Anki flashcards from a URL (5 days ago)
-- [photos2map](https://github.com/toozej/photos2map) - Generate GPX map from photos' EXIF data (5 days ago)
-- [neovimfiles](https://github.com/toozej/neovimfiles) -  (5 days ago)
+- [git-peak-extended](https://github.com/toozej/git-peak-extended) - Quickly grab git repos temporarily or permanently (2 days ago)
+- [ansible](https://github.com/toozej/ansible) - Ansible (5 days ago)
+- [ghreleases2rss](https://github.com/toozej/ghreleases2rss) - Subscribe to GitHub projects’ releases in RSS reader (6 days ago)
+- [neovim-ci](https://github.com/toozej/neovim-ci) -  (6 days ago)
+- [ghouls](https://github.com/toozej/ghouls) - Simple Go-based URL Bookmarking Service (6 days ago)
+- [finas](https://github.com/toozej/finas) - FINAS Is Not A Shell (6 days ago)
+- [url2anki](https://github.com/toozej/url2anki) - Generate Anki flashcards from a URL (6 days ago)
+- [travels](https://github.com/toozej/travels) - Travels and Adventures (6 days ago)
+- [RSSFFS](https://github.com/toozej/RSSFFS) - RSS Feed Finder [and] Subscriber (6 days ago)
+- [photos2map](https://github.com/toozej/photos2map) - Generate GPX map from photos' EXIF data (6 days ago)

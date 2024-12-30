@@ -12,10 +12,10 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [dotfiles](https://github.com/toozej/dotfiles) - Dotfiles (1 day ago)
-- [ansible](https://github.com/toozej/ansible) - Ansible (2 days ago)
-- [git-peak-extended](https://github.com/toozej/git-peak-extended) - Quickly grab git repos temporarily or permanently (2 days ago)
-- [photos2map](https://github.com/toozej/photos2map) - Generate GPX map from photos' EXIF data (4 days ago)
+- [dotfiles](https://github.com/toozej/dotfiles) - Dotfiles (2 days ago)
+- [ansible](https://github.com/toozej/ansible) - Ansible (3 days ago)
+- [git-peak-extended](https://github.com/toozej/git-peak-extended) - Quickly grab git repos temporarily or permanently (3 days ago)
+- [photos2map](https://github.com/toozej/photos2map) - Generate GPX map from photos' EXIF data (5 days ago)
 - [finas](https://github.com/toozej/finas) - FINAS Is Not A Shell (1 week ago)
 - [python-starter](https://github.com/toozej/python-starter) - python-starter (1 week ago)
 - [genARTrated](https://github.com/toozej/genARTrated) - A home for generated art (1 week ago)

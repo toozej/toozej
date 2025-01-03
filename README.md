@@ -12,10 +12,10 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [EXIFizer](https://github.com/toozej/EXIFizer) - Bulk EXIF Tagger for Film Photography (3 days ago)
-- [dotfiles](https://github.com/toozej/dotfiles) - Dotfiles (5 days ago)
-- [git-peak-extended](https://github.com/toozej/git-peak-extended) - Quickly grab git repos temporarily or permanently (6 days ago)
-- [ansible](https://github.com/toozej/ansible) - Ansible (6 days ago)
+- [EXIFizer](https://github.com/toozej/EXIFizer) - Bulk EXIF Tagger for Film Photography (4 days ago)
+- [dotfiles](https://github.com/toozej/dotfiles) - Dotfiles (6 days ago)
+- [git-peak-extended](https://github.com/toozej/git-peak-extended) - Quickly grab git repos temporarily or permanently (1 week ago)
+- [ansible](https://github.com/toozej/ansible) - Ansible (1 week ago)
 - [photos2map](https://github.com/toozej/photos2map) - Generate GPX map from photos' EXIF data (1 week ago)
 - [ghreleases2rss](https://github.com/toozej/ghreleases2rss) - Subscribe to GitHub projects’ releases in RSS reader (2 weeks ago)
 - [neovim-ci](https://github.com/toozej/neovim-ci) -  (2 weeks ago)

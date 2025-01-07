@@ -12,13 +12,13 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [dotfiles](https://github.com/toozej/dotfiles) - Dotfiles (3 days ago)
+- [RSSFFS](https://github.com/toozej/RSSFFS) - RSS Feed Finder [and] Subscriber (1 day ago)
+- [ghreleases2rss](https://github.com/toozej/ghreleases2rss) - Subscribe to GitHub projects’ releases in RSS reader (1 day ago)
+- [dotfiles](https://github.com/toozej/dotfiles) - Dotfiles (4 days ago)
 - [EXIFizer](https://github.com/toozej/EXIFizer) - Bulk EXIF Tagger for Film Photography (1 week ago)
 - [ansible](https://github.com/toozej/ansible) - Ansible (1 week ago)
 - [git-peak-extended](https://github.com/toozej/git-peak-extended) - Quickly grab git repos temporarily or permanently (1 week ago)
 - [photos2map](https://github.com/toozej/photos2map) - Generate GPX map from photos' EXIF data (1 week ago)
-- [ghouls](https://github.com/toozej/ghouls) - Simple Go-based URL Bookmarking Service (2 weeks ago)
-- [neovimfiles](https://github.com/toozej/neovimfiles) -  (2 weeks ago)
-- [url2anki](https://github.com/toozej/url2anki) - Generate Anki flashcards from a URL (2 weeks ago)
 - [genARTrated](https://github.com/toozej/genARTrated) - A home for generated art (2 weeks ago)
-- [RSSFFS](https://github.com/toozej/RSSFFS) - RSS Feed Finder [and] Subscriber (2 weeks ago)
+- [neovimfiles](https://github.com/toozej/neovimfiles) -  (2 weeks ago)
+- [travels](https://github.com/toozej/travels) - Travels and Adventures (2 weeks ago)

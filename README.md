@@ -12,12 +12,12 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [RSSFFS](https://github.com/toozej/RSSFFS) - RSS Feed Finder [and] Subscriber (2 days ago)
-- [ghreleases2rss](https://github.com/toozej/ghreleases2rss) - Subscribe to GitHub projects’ releases in RSS reader (3 days ago)
-- [dotfiles](https://github.com/toozej/dotfiles) - Dotfiles (6 days ago)
+- [RSSFFS](https://github.com/toozej/RSSFFS) - RSS Feed Finder [and] Subscriber (3 days ago)
+- [ghreleases2rss](https://github.com/toozej/ghreleases2rss) - Subscribe to GitHub projects’ releases in RSS reader (4 days ago)
+- [dotfiles](https://github.com/toozej/dotfiles) - Dotfiles (1 week ago)
 - [EXIFizer](https://github.com/toozej/EXIFizer) - Bulk EXIF Tagger for Film Photography (1 week ago)
-- [ansible](https://github.com/toozej/ansible) - Ansible (1 week ago)
-- [git-peak-extended](https://github.com/toozej/git-peak-extended) - Quickly grab git repos temporarily or permanently (1 week ago)
+- [ansible](https://github.com/toozej/ansible) - Ansible (2 weeks ago)
+- [git-peak-extended](https://github.com/toozej/git-peak-extended) - Quickly grab git repos temporarily or permanently (2 weeks ago)
 - [photos2map](https://github.com/toozej/photos2map) - Generate GPX map from photos' EXIF data (2 weeks ago)
 - [genARTrated](https://github.com/toozej/genARTrated) - A home for generated art (3 weeks ago)
 - [neovimfiles](https://github.com/toozej/neovimfiles) -  (3 weeks ago)

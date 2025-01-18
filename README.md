@@ -20,5 +20,5 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 - [ansible](https://github.com/toozej/ansible) - Ansible (3 weeks ago)
 - [git-peak-extended](https://github.com/toozej/git-peak-extended) - Quickly grab git repos temporarily or permanently (3 weeks ago)
 - [photos2map](https://github.com/toozej/photos2map) - Generate GPX map from photos' EXIF data (3 weeks ago)
-- [neovim-ci](https://github.com/toozej/neovim-ci) -  (4 weeks ago)
-- [travels](https://github.com/toozej/travels) - Travels and Adventures (4 weeks ago)
+- [neovim-ci](https://github.com/toozej/neovim-ci) -  (1 month ago)
+- [travels](https://github.com/toozej/travels) - Travels and Adventures (1 month ago)

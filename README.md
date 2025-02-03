@@ -12,9 +12,9 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [photos](https://github.com/toozej/photos) -  (3 days ago)
-- [dotfiles](https://github.com/toozej/dotfiles) - Dotfiles (3 days ago)
-- [photos2map](https://github.com/toozej/photos2map) - Generate GPX map from photos' EXIF data (4 days ago)
+- [photos](https://github.com/toozej/photos) -  (4 days ago)
+- [dotfiles](https://github.com/toozej/dotfiles) - Dotfiles (4 days ago)
+- [photos2map](https://github.com/toozej/photos2map) - Generate GPX map from photos' EXIF data (5 days ago)
 - [rss2mastodon](https://github.com/toozej/rss2mastodon) - Watches a RSS feed for new posts, then announces them on Mastodon (1 week ago)
 - [ghreleases2rss](https://github.com/toozej/ghreleases2rss) - Subscribe to GitHub projects’ releases in RSS reader (1 week ago)
 - [ghouls](https://github.com/toozej/ghouls) - Simple Go-based URL Bookmarking Service (1 week ago)

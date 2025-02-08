@@ -12,8 +12,8 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [ghreleases2rss](https://github.com/toozej/ghreleases2rss) - Subscribe to GitHub projects’ releases in RSS reader (2 days ago)
-- [RSSFFS](https://github.com/toozej/RSSFFS) - RSS Feed Finder [and] Subscriber (2 days ago)
+- [ghreleases2rss](https://github.com/toozej/ghreleases2rss) - Subscribe to GitHub projects’ releases in RSS reader (3 days ago)
+- [RSSFFS](https://github.com/toozej/RSSFFS) - RSS Feed Finder [and] Subscriber (3 days ago)
 - [dotfiles](https://github.com/toozej/dotfiles) - Dotfiles (1 week ago)
 - [photos](https://github.com/toozej/photos) -  (1 week ago)
 - [photos2map](https://github.com/toozej/photos2map) - Generate GPX map from photos' EXIF data (1 week ago)
@@ -21,4 +21,4 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 - [ghouls](https://github.com/toozej/ghouls) - Simple Go-based URL Bookmarking Service (1 week ago)
 - [finas](https://github.com/toozej/finas) - FINAS Is Not A Shell (1 week ago)
 - [rss2mastodon](https://github.com/toozej/rss2mastodon) - Watches a RSS feed for new posts, then announces them on Mastodon (1 week ago)
-- [golang-starter](https://github.com/toozej/golang-starter) - Golang starter template (1 week ago)
+- [golang-starter](https://github.com/toozej/golang-starter) - Golang starter template (2 weeks ago)

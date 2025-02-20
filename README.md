@@ -12,13 +12,13 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [dotfiles](https://github.com/toozej/dotfiles) - Dotfiles (1 day ago)
-- [ansible](https://github.com/toozej/ansible) - Ansible (1 day ago)
-- [files2prompt](https://github.com/toozej/files2prompt) - LLM Prompt Generator From Local Files (2 days ago)
-- [photos2map](https://github.com/toozej/photos2map) - Generate GPX map from photos' EXIF data (2 days ago)
-- [RSSFFS](https://github.com/toozej/RSSFFS) - RSS Feed Finder [and] Subscriber (2 days ago)
-- [ghreleases2rss](https://github.com/toozej/ghreleases2rss) - Subscribe to GitHub projects’ releases in RSS reader (2 days ago)
-- [photos](https://github.com/toozej/photos) -  (6 days ago)
+- [dotfiles](https://github.com/toozej/dotfiles) - Dotfiles (2 days ago)
+- [ansible](https://github.com/toozej/ansible) - Ansible (2 days ago)
+- [files2prompt](https://github.com/toozej/files2prompt) - LLM Prompt Generator From Local Files (3 days ago)
+- [photos2map](https://github.com/toozej/photos2map) - Generate GPX map from photos' EXIF data (3 days ago)
+- [RSSFFS](https://github.com/toozej/RSSFFS) - RSS Feed Finder [and] Subscriber (3 days ago)
+- [ghreleases2rss](https://github.com/toozej/ghreleases2rss) - Subscribe to GitHub projects’ releases in RSS reader (3 days ago)
+- [photos](https://github.com/toozej/photos) -  (1 week ago)
 - [pebble-darkroom](https://github.com/toozej/pebble-darkroom) - A Pebble timer app for use in darkroom photography (1 week ago)
 - [rss2mastodon](https://github.com/toozej/rss2mastodon) - Watches a RSS feed for new posts, then announces them on Mastodon (3 weeks ago)
 - [finas](https://github.com/toozej/finas) - FINAS Is Not A Shell (3 weeks ago)

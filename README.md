@@ -19,6 +19,6 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 - [ghreleases2rss](https://github.com/toozej/ghreleases2rss) - Subscribe to GitHub projects’ releases in RSS reader (1 week ago)
 - [photos2map](https://github.com/toozej/photos2map) - Generate GPX map from photos' EXIF data (1 week ago)
 - [photos](https://github.com/toozej/photos) -  (2 weeks ago)
-- [pebble-darkroom](https://github.com/toozej/pebble-darkroom) - A Pebble timer app for use in darkroom photography (2 weeks ago)
+- [pebble-darkroom](https://github.com/toozej/pebble-darkroom) - A Pebble timer app for use in darkroom photography (3 weeks ago)
 - [ghouls](https://github.com/toozej/ghouls) - Simple Go-based URL Bookmarking Service (1 month ago)
 - [finas](https://github.com/toozej/finas) - FINAS Is Not A Shell (1 month ago)

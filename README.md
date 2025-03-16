@@ -12,13 +12,13 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [photos2map](https://github.com/toozej/photos2map) - Generate GPX map from photos' EXIF data (3 days ago)
-- [trails-completionist](https://github.com/toozej/trails-completionist) - Golang application to parse a list of trails, then display a searchable HTML table for ease of tracking completion of trails. (6 days ago)
+- [golang-starter](https://github.com/toozej/golang-starter) - Golang starter template (1 day ago)
+- [photos2map](https://github.com/toozej/photos2map) - Generate GPX map from photos' EXIF data (4 days ago)
+- [trails-completionist](https://github.com/toozej/trails-completionist) - Golang application to parse a list of trails, then display a searchable HTML table for ease of tracking completion of trails. (1 week ago)
 - [pebble-darkroom](https://github.com/toozej/pebble-darkroom) - A Pebble timer app for use in darkroom photography (1 week ago)
 - [ghreleases2rss](https://github.com/toozej/ghreleases2rss) - Subscribe to GitHub projects’ releases in RSS reader (1 week ago)
 - [RSSFFS](https://github.com/toozej/RSSFFS) - RSS Feed Finder [and] Subscriber (1 week ago)
-- [ansible](https://github.com/toozej/ansible) - Ansible (3 weeks ago)
 - [dotfiles](https://github.com/toozej/dotfiles) - Dotfiles (3 weeks ago)
+- [ansible](https://github.com/toozej/ansible) - Ansible (3 weeks ago)
 - [files2prompt](https://github.com/toozej/files2prompt) - LLM Prompt Generator From Local Files (3 weeks ago)
 - [photos](https://github.com/toozej/photos) -  (1 month ago)
-- [url2anki](https://github.com/toozej/url2anki) - Generate Anki flashcards from a URL (1 month ago)

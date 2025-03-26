@@ -12,9 +12,9 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [ansible](https://github.com/toozej/ansible) - Ansible (1 day ago)
-- [go-find-liquor](https://github.com/toozej/go-find-liquor) - Go Find Liquor (in Oregon) (2 days ago)
-- [golang-starter](https://github.com/toozej/golang-starter) - Golang starter template (3 days ago)
+- [ansible](https://github.com/toozej/ansible) - Ansible (2 days ago)
+- [go-find-liquor](https://github.com/toozej/go-find-liquor) - Go Find Liquor (in Oregon) (3 days ago)
+- [golang-starter](https://github.com/toozej/golang-starter) - Golang starter template (4 days ago)
 - [RSSFFS](https://github.com/toozej/RSSFFS) - RSS Feed Finder [and] Subscriber (1 week ago)
 - [photos2map](https://github.com/toozej/photos2map) - Generate GPX map from photos' EXIF data (1 week ago)
 - [rss2mastodon](https://github.com/toozej/rss2mastodon) - Watches a RSS feed for new posts, then announces them on Mastodon (1 week ago)

@@ -12,7 +12,7 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [chips](https://github.com/toozej/chips) - Spotify to Youtube Music "CHIPS" Playlist Cloner (6 days ago)
+- [chips](https://github.com/toozej/chips) - Spotify to Youtube Music "CHIPS" Playlist Cloner (1 week ago)
 - [ghouls](https://github.com/toozej/ghouls) - Simple Go-based URL Bookmarking Service (1 week ago)
 - [ansible](https://github.com/toozej/ansible) - Ansible (1 week ago)
 - [golang-starter](https://github.com/toozej/golang-starter) - Golang starter template (1 week ago)

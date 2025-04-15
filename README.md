@@ -12,13 +12,13 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [files2prompt](https://github.com/toozej/files2prompt) - LLM Prompt Generator From Local Files (3 days ago)
-- [neovimfiles](https://github.com/toozej/neovimfiles) -  (6 days ago)
-- [RSSFFS](https://github.com/toozej/RSSFFS) - RSS Feed Finder [and] Subscriber (6 days ago)
-- [dotfiles](https://github.com/toozej/dotfiles) - Dotfiles (6 days ago)
-- [go-find-liquor](https://github.com/toozej/go-find-liquor) - Go Find Liquor (in Oregon) (1 week ago)
-- [photos2map](https://github.com/toozej/photos2map) - Generate GPX map from photos' EXIF data (1 week ago)
+- [go-find-liquor](https://github.com/toozej/go-find-liquor) - Go Find Liquor (in Oregon) (1 day ago)
+- [ansible](https://github.com/toozej/ansible) - Ansible (1 day ago)
+- [RSSFFS](https://github.com/toozej/RSSFFS) - RSS Feed Finder [and] Subscriber (1 day ago)
+- [files2prompt](https://github.com/toozej/files2prompt) - LLM Prompt Generator From Local Files (4 days ago)
+- [neovimfiles](https://github.com/toozej/neovimfiles) -  (1 week ago)
+- [dotfiles](https://github.com/toozej/dotfiles) - Dotfiles (1 week ago)
 - [url2anki](https://github.com/toozej/url2anki) - Generate Anki flashcards from a URL (1 week ago)
+- [photos2map](https://github.com/toozej/photos2map) - Generate GPX map from photos' EXIF data (1 week ago)
 - [chips](https://github.com/toozej/chips) - Spotify to Youtube Music "CHIPS" Playlist Cloner (2 weeks ago)
-- [finas](https://github.com/toozej/finas) - FINAS Is Not A Shell (2 weeks ago)
-- [ghreleases2rss](https://github.com/toozej/ghreleases2rss) - Subscribe to GitHub projects’ releases in RSS reader (2 weeks ago)
+- [trails-completionist](https://github.com/toozej/trails-completionist) - Golang application to parse a list of trails, then display a searchable HTML table for ease of tracking completion of trails. (2 weeks ago)

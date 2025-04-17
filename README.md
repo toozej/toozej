@@ -12,12 +12,12 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [photos2map](https://github.com/toozej/photos2map) - Generate GPX map from photos' EXIF data (1 day ago)
-- [go-find-liquor](https://github.com/toozej/go-find-liquor) - Go Find Liquor (in Oregon) (2 days ago)
-- [ansible](https://github.com/toozej/ansible) - Ansible (2 days ago)
-- [RSSFFS](https://github.com/toozej/RSSFFS) - RSS Feed Finder [and] Subscriber (2 days ago)
-- [photos](https://github.com/toozej/photos) -  (2 days ago)
-- [files2prompt](https://github.com/toozej/files2prompt) - LLM Prompt Generator From Local Files (5 days ago)
+- [photos2map](https://github.com/toozej/photos2map) - Generate GPX map from photos' EXIF data (2 days ago)
+- [go-find-liquor](https://github.com/toozej/go-find-liquor) - Go Find Liquor (in Oregon) (3 days ago)
+- [ansible](https://github.com/toozej/ansible) - Ansible (3 days ago)
+- [RSSFFS](https://github.com/toozej/RSSFFS) - RSS Feed Finder [and] Subscriber (3 days ago)
+- [photos](https://github.com/toozej/photos) -  (3 days ago)
+- [files2prompt](https://github.com/toozej/files2prompt) - LLM Prompt Generator From Local Files (6 days ago)
 - [neovimfiles](https://github.com/toozej/neovimfiles) -  (1 week ago)
 - [dotfiles](https://github.com/toozej/dotfiles) - Dotfiles (1 week ago)
 - [url2anki](https://github.com/toozej/url2anki) - Generate Anki flashcards from a URL (1 week ago)

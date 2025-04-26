@@ -12,10 +12,10 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [EXIFizer](https://github.com/toozej/EXIFizer) - Bulk EXIF Tagger for Film Photography (1 day ago)
-- [ghouls](https://github.com/toozej/ghouls) - Simple Go-based URL Bookmarking Service (4 days ago)
+- [photos2map](https://github.com/toozej/photos2map) - Generate GPX map from photos' EXIF data (1 day ago)
+- [EXIFizer](https://github.com/toozej/EXIFizer) - Bulk EXIF Tagger for Film Photography (2 days ago)
+- [ghouls](https://github.com/toozej/ghouls) - Simple Go-based URL Bookmarking Service (5 days ago)
 - [jamestooze.com](https://github.com/toozej/jamestooze.com) - jamestooze.com (1 week ago)
-- [photos2map](https://github.com/toozej/photos2map) - Generate GPX map from photos' EXIF data (1 week ago)
 - [photos](https://github.com/toozej/photos) -  (1 week ago)
 - [RSSFFS](https://github.com/toozej/RSSFFS) - RSS Feed Finder [and] Subscriber (1 week ago)
 - [go-find-liquor](https://github.com/toozej/go-find-liquor) - Go Find Liquor (in Oregon) (1 week ago)

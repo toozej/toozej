@@ -12,13 +12,13 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [RSSFFS](https://github.com/toozej/RSSFFS) - RSS Feed Finder [and] Subscriber (1 day ago)
-- [ansible](https://github.com/toozej/ansible) - Ansible (6 days ago)
+- [RSSFFS](https://github.com/toozej/RSSFFS) - RSS Feed Finder [and] Subscriber (2 days ago)
+- [ansible](https://github.com/toozej/ansible) - Ansible (1 week ago)
 - [photos2map](https://github.com/toozej/photos2map) - Generate GPX map from photos' EXIF data (1 week ago)
-- [EXIFizer](https://github.com/toozej/EXIFizer) - Bulk EXIF Tagger for Film Photography (1 week ago)
+- [EXIFizer](https://github.com/toozej/EXIFizer) - Bulk EXIF Tagger for Film Photography (2 weeks ago)
 - [ghouls](https://github.com/toozej/ghouls) - Simple Go-based URL Bookmarking Service (2 weeks ago)
-- [jamestooze.com](https://github.com/toozej/jamestooze.com) - jamestooze.com (2 weeks ago)
+- [jamestooze.com](https://github.com/toozej/jamestooze.com) - jamestooze.com (3 weeks ago)
 - [photos](https://github.com/toozej/photos) -  (3 weeks ago)
 - [go-find-liquor](https://github.com/toozej/go-find-liquor) - Go Find Liquor (in Oregon) (3 weeks ago)
 - [files2prompt](https://github.com/toozej/files2prompt) - LLM Prompt Generator From Local Files (3 weeks ago)
-- [neovimfiles](https://github.com/toozej/neovimfiles) -  (4 weeks ago)
+- [neovimfiles](https://github.com/toozej/neovimfiles) -  (1 month ago)

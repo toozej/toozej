@@ -17,7 +17,7 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 - [ansible](https://github.com/toozej/ansible) - Ansible (2 weeks ago)
 - [EXIFizer](https://github.com/toozej/EXIFizer) - Bulk EXIF Tagger for Film Photography (3 weeks ago)
 - [ghouls](https://github.com/toozej/ghouls) - Simple Go-based URL Bookmarking Service (3 weeks ago)
-- [jamestooze.com](https://github.com/toozej/jamestooze.com) - jamestooze.com (4 weeks ago)
+- [jamestooze.com](https://github.com/toozej/jamestooze.com) - jamestooze.com (1 month ago)
 - [photos](https://github.com/toozej/photos) -  (1 month ago)
 - [go-find-liquor](https://github.com/toozej/go-find-liquor) - Go Find Liquor (in Oregon) (1 month ago)
 - [files2prompt](https://github.com/toozej/files2prompt) - LLM Prompt Generator From Local Files (1 month ago)

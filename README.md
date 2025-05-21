@@ -16,7 +16,7 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 - [RSSFFS](https://github.com/toozej/RSSFFS) - RSS Feed Finder [and] Subscriber (2 weeks ago)
 - [ansible](https://github.com/toozej/ansible) - Ansible (2 weeks ago)
 - [EXIFizer](https://github.com/toozej/EXIFizer) - Bulk EXIF Tagger for Film Photography (3 weeks ago)
-- [ghouls](https://github.com/toozej/ghouls) - Simple Go-based URL Bookmarking Service (4 weeks ago)
+- [ghouls](https://github.com/toozej/ghouls) - Simple Go-based URL Bookmarking Service (1 month ago)
 - [jamestooze.com](https://github.com/toozej/jamestooze.com) - jamestooze.com (1 month ago)
 - [photos](https://github.com/toozej/photos) -  (1 month ago)
 - [go-find-liquor](https://github.com/toozej/go-find-liquor) - Go Find Liquor (in Oregon) (1 month ago)

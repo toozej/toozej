@@ -12,7 +12,7 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [photos2map](https://github.com/toozej/photos2map) - Generate GPX map from photos' EXIF data (1 week ago)
+- [photos2map](https://github.com/toozej/photos2map) - Generate GPX map from photos' EXIF data (2 weeks ago)
 - [RSSFFS](https://github.com/toozej/RSSFFS) - RSS Feed Finder [and] Subscriber (2 weeks ago)
 - [ansible](https://github.com/toozej/ansible) - Ansible (3 weeks ago)
 - [EXIFizer](https://github.com/toozej/EXIFizer) - Bulk EXIF Tagger for Film Photography (4 weeks ago)

@@ -12,13 +12,13 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [photos2map](https://github.com/toozej/photos2map) - Generate GPX map from photos' EXIF data (2 weeks ago)
+- [ansible](https://github.com/toozej/ansible) - Ansible (1 day ago)
+- [sn2ssg-py](https://github.com/toozej/sn2ssg-py) - Convert Simplenote notes to SSG-formatted Markdown files (1 day ago)
+- [photos2map](https://github.com/toozej/photos2map) - Generate GPX map from photos' EXIF data (3 weeks ago)
 - [RSSFFS](https://github.com/toozej/RSSFFS) - RSS Feed Finder [and] Subscriber (3 weeks ago)
-- [ansible](https://github.com/toozej/ansible) - Ansible (4 weeks ago)
 - [EXIFizer](https://github.com/toozej/EXIFizer) - Bulk EXIF Tagger for Film Photography (1 month ago)
 - [ghouls](https://github.com/toozej/ghouls) - Simple Go-based URL Bookmarking Service (1 month ago)
 - [jamestooze.com](https://github.com/toozej/jamestooze.com) - jamestooze.com (1 month ago)
-- [photos](https://github.com/toozej/photos) -  (1 month ago)
 - [go-find-liquor](https://github.com/toozej/go-find-liquor) - Go Find Liquor (in Oregon) (1 month ago)
+- [photos](https://github.com/toozej/photos) -  (1 month ago)
 - [files2prompt](https://github.com/toozej/files2prompt) - LLM Prompt Generator From Local Files (1 month ago)
-- [dotfiles](https://github.com/toozej/dotfiles) - Dotfiles (1 month ago)

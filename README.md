@@ -12,12 +12,12 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [sncli](https://github.com/insanum/sncli) - Simplenote CLI (3 days ago)
-- [sn2ssg-py](https://github.com/toozej/sn2ssg-py) - Convert Simplenote notes to SSG-formatted Markdown files (3 days ago)
-- [golang-starter](https://github.com/toozej/golang-starter) - Golang starter template (5 days ago)
-- [ansible](https://github.com/toozej/ansible) - Ansible (6 days ago)
+- [sncli](https://github.com/insanum/sncli) - Simplenote CLI (4 days ago)
+- [sn2ssg-py](https://github.com/toozej/sn2ssg-py) - Convert Simplenote notes to SSG-formatted Markdown files (4 days ago)
+- [golang-starter](https://github.com/toozej/golang-starter) - Golang starter template (6 days ago)
+- [ansible](https://github.com/toozej/ansible) - Ansible (1 week ago)
 - [photos2map](https://github.com/toozej/photos2map) - Generate GPX map from photos' EXIF data (3 weeks ago)
-- [RSSFFS](https://github.com/toozej/RSSFFS) - RSS Feed Finder [and] Subscriber (4 weeks ago)
+- [RSSFFS](https://github.com/toozej/RSSFFS) - RSS Feed Finder [and] Subscriber (1 month ago)
 - [EXIFizer](https://github.com/toozej/EXIFizer) - Bulk EXIF Tagger for Film Photography (1 month ago)
 - [ghouls](https://github.com/toozej/ghouls) - Simple Go-based URL Bookmarking Service (1 month ago)
 - [jamestooze.com](https://github.com/toozej/jamestooze.com) - jamestooze.com (1 month ago)

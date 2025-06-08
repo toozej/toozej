@@ -12,13 +12,13 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [ghreleases2rss](https://github.com/toozej/ghreleases2rss) - Subscribe to GitHub projects’ releases in RSS reader (1 day ago)
-- [RSSFFS](https://github.com/toozej/RSSFFS) - RSS Feed Finder [and] Subscriber (1 day ago)
-- [opa-coverage-example](https://github.com/toozej/opa-coverage-example) - Open Policy Agent rule coverage example (3 days ago)
-- [sn2ssg-py](https://github.com/toozej/sn2ssg-py) - Convert Simplenote notes to SSG-formatted Markdown files (6 days ago)
-- [sncli](https://github.com/insanum/sncli) - Simplenote CLI (6 days ago)
+- [ghreleases2rss](https://github.com/toozej/ghreleases2rss) - Subscribe to GitHub projects’ releases in RSS reader (2 days ago)
+- [RSSFFS](https://github.com/toozej/RSSFFS) - RSS Feed Finder [and] Subscriber (2 days ago)
+- [opa-coverage-example](https://github.com/toozej/opa-coverage-example) - Open Policy Agent rule coverage example (4 days ago)
+- [sn2ssg-py](https://github.com/toozej/sn2ssg-py) - Convert Simplenote notes to SSG-formatted Markdown files (1 week ago)
+- [sncli](https://github.com/insanum/sncli) - Simplenote CLI (1 week ago)
 - [golang-starter](https://github.com/toozej/golang-starter) - Golang starter template (1 week ago)
 - [ansible](https://github.com/toozej/ansible) - Ansible (1 week ago)
-- [photos2map](https://github.com/toozej/photos2map) - Generate GPX map from photos' EXIF data (4 weeks ago)
+- [photos2map](https://github.com/toozej/photos2map) - Generate GPX map from photos' EXIF data (1 month ago)
 - [EXIFizer](https://github.com/toozej/EXIFizer) - Bulk EXIF Tagger for Film Photography (1 month ago)
 - [ghouls](https://github.com/toozej/ghouls) - Simple Go-based URL Bookmarking Service (1 month ago)

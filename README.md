@@ -12,13 +12,13 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [photos2map](https://github.com/toozej/photos2map) - Generate GPX map from photos' EXIF data (2 days ago)
-- [wheresmyprompt](https://github.com/toozej/wheresmyprompt) - LLM prompts-finding tool: search prompts stored in a Markdown file, and use selected prompt as a LLM system prompt (3 days ago)
-- [ghreleases2rss](https://github.com/toozej/ghreleases2rss) - Subscribe to GitHub projects’ releases in RSS reader (5 days ago)
-- [RSSFFS](https://github.com/toozej/RSSFFS) - RSS Feed Finder [and] Subscriber (5 days ago)
+- [photos2map](https://github.com/toozej/photos2map) - Generate GPX map from photos' EXIF data (3 days ago)
+- [wheresmyprompt](https://github.com/toozej/wheresmyprompt) - LLM prompts-finding tool: search prompts stored in a Markdown file, and use selected prompt as a LLM system prompt (4 days ago)
+- [ghreleases2rss](https://github.com/toozej/ghreleases2rss) - Subscribe to GitHub projects’ releases in RSS reader (6 days ago)
+- [RSSFFS](https://github.com/toozej/RSSFFS) - RSS Feed Finder [and] Subscriber (6 days ago)
 - [opa-coverage-example](https://github.com/toozej/opa-coverage-example) - Open Policy Agent rule coverage example (1 week ago)
 - [sn2ssg-py](https://github.com/toozej/sn2ssg-py) - Convert Simplenote notes to SSG-formatted Markdown files (1 week ago)
 - [sncli](https://github.com/insanum/sncli) - Simplenote CLI (1 week ago)
 - [golang-starter](https://github.com/toozej/golang-starter) - Golang starter template (1 week ago)
-- [ansible](https://github.com/toozej/ansible) - Ansible (1 week ago)
+- [ansible](https://github.com/toozej/ansible) - Ansible (2 weeks ago)
 - [EXIFizer](https://github.com/toozej/EXIFizer) - Bulk EXIF Tagger for Film Photography (1 month ago)

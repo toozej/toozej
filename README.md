@@ -12,7 +12,7 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [photos](https://github.com/toozej/photos) -  (2 days ago)
+- [photos](https://github.com/toozej/photos) -  (3 days ago)
 - [sn2ssg-py](https://github.com/toozej/sn2ssg-py) - Convert Simplenote notes to SSG-formatted Markdown files (1 week ago)
 - [photos2map](https://github.com/toozej/photos2map) - Generate GPX map from photos' EXIF data (1 week ago)
 - [opa-coverage-example](https://github.com/toozej/opa-coverage-example) - Open Policy Agent rule coverage example (1 week ago)

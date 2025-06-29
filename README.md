@@ -12,13 +12,13 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [golang-starter](https://github.com/toozej/golang-starter) - Golang starter template (1 day ago)
-- [ghouls](https://github.com/toozej/ghouls) - Simple Go-based URL Bookmarking Service (2 days ago)
-- [neovimfiles](https://github.com/toozej/neovimfiles) -  (2 days ago)
+- [golang-starter](https://github.com/toozej/golang-starter) - Golang starter template (2 days ago)
+- [ghouls](https://github.com/toozej/ghouls) - Simple Go-based URL Bookmarking Service (3 days ago)
+- [neovimfiles](https://github.com/toozej/neovimfiles) -  (3 days ago)
 - [photos](https://github.com/toozej/photos) -  (1 week ago)
 - [photos2map](https://github.com/toozej/photos2map) - Generate GPX map from photos' EXIF data (2 weeks ago)
 - [sn2ssg-py](https://github.com/toozej/sn2ssg-py) - Convert Simplenote notes to SSG-formatted Markdown files (2 weeks ago)
 - [opa-coverage-example](https://github.com/toozej/opa-coverage-example) - Open Policy Agent rule coverage example (2 weeks ago)
-- [wheresmyprompt](https://github.com/toozej/wheresmyprompt) - LLM prompts-finding tool: search prompts stored in a Markdown file, and use selected prompt as a LLM system prompt (2 weeks ago)
+- [wheresmyprompt](https://github.com/toozej/wheresmyprompt) - LLM prompts-finding tool: search prompts stored in a Markdown file, and use selected prompt as a LLM system prompt (3 weeks ago)
 - [ghreleases2rss](https://github.com/toozej/ghreleases2rss) - Subscribe to GitHub projects’ releases in RSS reader (3 weeks ago)
 - [RSSFFS](https://github.com/toozej/RSSFFS) - RSS Feed Finder [and] Subscriber (3 weeks ago)

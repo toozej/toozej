@@ -12,7 +12,7 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [waffles](https://github.com/toozej/waffles) - LLM Workflow Orchestrator & Wrapper (6 days ago)
+- [waffles](https://github.com/toozej/waffles) - LLM Workflow Orchestrator & Wrapper (1 week ago)
 - [rss2mastodon](https://github.com/toozej/rss2mastodon) - Watches a RSS feed for new posts, then announces them on Mastodon (1 week ago)
 - [RSSFFS](https://github.com/toozej/RSSFFS) - RSS Feed Finder [and] Subscriber (1 week ago)
 - [url2anki](https://github.com/toozej/url2anki) - Generate Anki flashcards from a URL (1 week ago)

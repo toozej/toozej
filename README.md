@@ -4,15 +4,15 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### 👨💻 Repositories I created recently
 
+- [kemo](https://github.com/toozej/kemo) - Kubernetes Demo Runner
 - [go-listen](https://github.com/toozej/go-listen) - 
 - [waffles](https://github.com/toozej/waffles) - LLM Workflow Orchestrator & Wrapper
 - [wheresmyprompt](https://github.com/toozej/wheresmyprompt) - LLM prompts-finding tool: search prompts stored in a Markdown file, and use selected prompt as a LLM system prompt
 - [opa-coverage-example](https://github.com/toozej/opa-coverage-example) - Open Policy Agent rule coverage example
-- [go-find-liquor](https://github.com/toozej/go-find-liquor) - Go Find Liquor (in Oregon)
 
 #### ⛏️ What I've been working on
 
-- [RSSFFS](https://github.com/toozej/RSSFFS) - RSS Feed Finder [and] Subscriber (4 days ago)
+- [RSSFFS](https://github.com/toozej/RSSFFS) - RSS Feed Finder [and] Subscriber (5 days ago)
 - [photos2map](https://github.com/toozej/photos2map) - Generate GPX map from photos' EXIF data (1 week ago)
 - [rss2mastodon](https://github.com/toozej/rss2mastodon) - Watches a RSS feed for new posts, then announces them on Mastodon (1 week ago)
 - [golang-starter](https://github.com/toozej/golang-starter) - Golang starter template (1 week ago)

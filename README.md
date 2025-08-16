@@ -12,13 +12,13 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [ansible](https://github.com/toozej/ansible) - Ansible (2 days ago)
-- [pebble-darkroom](https://github.com/toozej/pebble-darkroom) - A Pebble timer app for use in darkroom photography (2 days ago)
-- [golang-starter](https://github.com/toozej/golang-starter) - Golang starter template (2 days ago)
-- [travels](https://github.com/toozej/travels) - Travels and Adventures (2 days ago)
-- [kemo](https://github.com/toozej/kemo) - Kubernetes Demo Runner (2 days ago)
-- [files2prompt](https://github.com/toozej/files2prompt) - LLM Prompt Generator From Local Files (3 days ago)
-- [sn2ssg-py](https://github.com/toozej/sn2ssg-py) - Convert Simplenote notes to SSG-formatted Markdown files (3 days ago)
-- [photos2map](https://github.com/toozej/photos2map) - Generate GPX map from photos' EXIF data (3 days ago)
-- [neovimfiles](https://github.com/toozej/neovimfiles) -  (3 days ago)
-- [EXIFizer](https://github.com/toozej/EXIFizer) - Bulk EXIF Tagger for Film Photography (3 days ago)
+- [dotfiles](https://github.com/toozej/dotfiles) - Dotfiles (1 day ago)
+- [RSSFFS](https://github.com/toozej/RSSFFS) - RSS Feed Finder [and] Subscriber (1 day ago)
+- [golang-starter](https://github.com/toozej/golang-starter) - Golang starter template (1 day ago)
+- [url2anki](https://github.com/toozej/url2anki) - Generate Anki flashcards from a URL (1 day ago)
+- [ghreleases2rss](https://github.com/toozej/ghreleases2rss) - Subscribe to GitHub projects’ releases in RSS reader (1 day ago)
+- [EXIFizer](https://github.com/toozej/EXIFizer) - Bulk EXIF Tagger for Film Photography (1 day ago)
+- [ansible](https://github.com/toozej/ansible) - Ansible (1 day ago)
+- [files2prompt](https://github.com/toozej/files2prompt) - LLM Prompt Generator From Local Files (1 day ago)
+- [finas](https://github.com/toozej/finas) - FINAS Is Not A Shell (1 day ago)
+- [go-find-liquor](https://github.com/toozej/go-find-liquor) - Go Find Liquor (in Oregon) (1 day ago)

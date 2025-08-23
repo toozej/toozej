@@ -12,7 +12,7 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [kemo](https://github.com/toozej/kemo) - Kubernetes Demo Runner (5 days ago)
+- [kemo](https://github.com/toozej/kemo) - Kubernetes Demo Runner (6 days ago)
 - [finas](https://github.com/toozej/finas) - FINAS Is Not A Shell (1 week ago)
 - [go-find-liquor](https://github.com/toozej/go-find-liquor) - Go Find Liquor (in Oregon) (1 week ago)
 - [url2anki](https://github.com/toozej/url2anki) - Generate Anki flashcards from a URL (1 week ago)

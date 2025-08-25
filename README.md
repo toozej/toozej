@@ -12,13 +12,13 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [go-listen](https://github.com/toozej/go-listen) - go-listen is a web application that allows users to search for artists and automatically add their top 5 songs to designated "incoming" playlists on Spotify (1 day ago)
+- [go-listen](https://github.com/toozej/go-listen) - go-listen is a web application that allows users to search for artists and automatically add their top 5 songs to designated "incoming" playlists on Spotify (2 days ago)
 - [kemo](https://github.com/toozej/kemo) - Kubernetes Demo Runner (1 week ago)
-- [ansible](https://github.com/toozej/ansible) - Ansible (1 week ago)
-- [url2anki](https://github.com/toozej/url2anki) - Generate Anki flashcards from a URL (1 week ago)
-- [golang-starter](https://github.com/toozej/golang-starter) - Golang starter template (1 week ago)
-- [ghreleases2rss](https://github.com/toozej/ghreleases2rss) - Subscribe to GitHub projects’ releases in RSS reader (1 week ago)
-- [EXIFizer](https://github.com/toozej/EXIFizer) - Bulk EXIF Tagger for Film Photography (1 week ago)
-- [files2prompt](https://github.com/toozej/files2prompt) - LLM Prompt Generator From Local Files (1 week ago)
 - [finas](https://github.com/toozej/finas) - FINAS Is Not A Shell (1 week ago)
 - [go-find-liquor](https://github.com/toozej/go-find-liquor) - Go Find Liquor (in Oregon) (1 week ago)
+- [golang-starter](https://github.com/toozej/golang-starter) - Golang starter template (1 week ago)
+- [ghreleases2rss](https://github.com/toozej/ghreleases2rss) - Subscribe to GitHub projects’ releases in RSS reader (1 week ago)
+- [ansible](https://github.com/toozej/ansible) - Ansible (1 week ago)
+- [files2prompt](https://github.com/toozej/files2prompt) - LLM Prompt Generator From Local Files (1 week ago)
+- [EXIFizer](https://github.com/toozej/EXIFizer) - Bulk EXIF Tagger for Film Photography (1 week ago)
+- [url2anki](https://github.com/toozej/url2anki) - Generate Anki flashcards from a URL (1 week ago)

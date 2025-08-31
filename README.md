@@ -12,9 +12,9 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [golang-starter](https://github.com/toozej/golang-starter) - Golang starter template (5 days ago)
+- [golang-starter](https://github.com/toozej/golang-starter) - Golang starter template (6 days ago)
 - [go-listen](https://github.com/toozej/go-listen) - go-listen is a web application that allows users to search for artists and automatically add their top 5 songs to designated "incoming" playlists on Spotify (1 week ago)
-- [kemo](https://github.com/toozej/kemo) - Kubernetes Demo Runner (1 week ago)
+- [kemo](https://github.com/toozej/kemo) - Kubernetes Demo Runner (2 weeks ago)
 - [ansible](https://github.com/toozej/ansible) - Ansible (2 weeks ago)
 - [url2anki](https://github.com/toozej/url2anki) - Generate Anki flashcards from a URL (2 weeks ago)
 - [ghreleases2rss](https://github.com/toozej/ghreleases2rss) - Subscribe to GitHub projects’ releases in RSS reader (2 weeks ago)

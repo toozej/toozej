@@ -12,13 +12,13 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [git-peak-extended](https://github.com/toozej/git-peak-extended) - Quickly grab git repos temporarily or permanently (1 day ago)
-- [homebrew-tap](https://github.com/toozej/homebrew-tap) - Homebrew Formulae to toozej's various binaries, powered by @goreleaser (1 day ago)
-- [golang-starter](https://github.com/toozej/golang-starter) - Golang starter template (1 day ago)
-- [files2prompt](https://github.com/toozej/files2prompt) - LLM Prompt Generator From Local Files (1 day ago)
-- [EXIFizer](https://github.com/toozej/EXIFizer) - Bulk EXIF Tagger for Film Photography (3 days ago)
-- [finas](https://github.com/toozej/finas) - FINAS Is Not A Shell (1 week ago)
-- [RSSFFS](https://github.com/toozej/RSSFFS) - RSS Feed Finder [and] Subscriber (1 week ago)
+- [homebrew-tap](https://github.com/toozej/homebrew-tap) - Homebrew Formulae to toozej's various binaries, powered by @goreleaser (2 days ago)
+- [git-peak-extended](https://github.com/toozej/git-peak-extended) - Quickly grab git repos temporarily or permanently (2 days ago)
+- [golang-starter](https://github.com/toozej/golang-starter) - Golang starter template (2 days ago)
+- [files2prompt](https://github.com/toozej/files2prompt) - LLM Prompt Generator From Local Files (2 days ago)
+- [EXIFizer](https://github.com/toozej/EXIFizer) - Bulk EXIF Tagger for Film Photography (4 days ago)
 - [url2anki](https://github.com/toozej/url2anki) - Generate Anki flashcards from a URL (1 week ago)
+- [RSSFFS](https://github.com/toozej/RSSFFS) - RSS Feed Finder [and] Subscriber (1 week ago)
 - [photos2map](https://github.com/toozej/photos2map) - Generate GPX map from photos' EXIF data (1 week ago)
 - [go-find-liquor](https://github.com/toozej/go-find-liquor) - Go Find Liquor (in Oregon) (1 week ago)
+- [finas](https://github.com/toozej/finas) - FINAS Is Not A Shell (1 week ago)

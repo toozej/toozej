@@ -12,8 +12,8 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [EXIFizer](https://github.com/toozej/EXIFizer) - Bulk EXIF Tagger for Film Photography (3 days ago)
-- [golang-starter](https://github.com/toozej/golang-starter) - Golang starter template (4 days ago)
+- [EXIFizer](https://github.com/toozej/EXIFizer) - Bulk EXIF Tagger for Film Photography (4 days ago)
+- [golang-starter](https://github.com/toozej/golang-starter) - Golang starter template (5 days ago)
 - [homebrew-tap](https://github.com/toozej/homebrew-tap) - Homebrew Formulae to toozej's various binaries, powered by @goreleaser (1 week ago)
 - [files2prompt](https://github.com/toozej/files2prompt) - LLM Prompt Generator From Local Files (1 week ago)
 - [git-peak-extended](https://github.com/toozej/git-peak-extended) - Quickly grab git repos temporarily or permanently (1 week ago)

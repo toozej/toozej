@@ -12,7 +12,7 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [kmhd2spotify](https://github.com/toozej/kmhd2spotify) -  (5 days ago)
+- [kmhd2spotify](https://github.com/toozej/kmhd2spotify) -  (6 days ago)
 - [EXIFizer](https://github.com/toozej/EXIFizer) - Bulk EXIF Tagger for Film Photography (1 week ago)
 - [golang-starter](https://github.com/toozej/golang-starter) - Golang starter template (1 week ago)
 - [files2prompt](https://github.com/toozej/files2prompt) - LLM Prompt Generator From Local Files (2 weeks ago)

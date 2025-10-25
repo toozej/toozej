@@ -12,9 +12,9 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [kmhd2spotify](https://github.com/toozej/kmhd2spotify) - Automatically sync songs from KMHD jazz radio to your Spotify playlists (1 day ago)
-- [dotfiles](https://github.com/toozej/dotfiles) - Dotfiles (2 days ago)
-- [kemo](https://github.com/toozej/kemo) - Kubernetes Demo Runner (4 days ago)
+- [kmhd2spotify](https://github.com/toozej/kmhd2spotify) - Automatically sync songs from KMHD jazz radio to your Spotify playlists (2 days ago)
+- [dotfiles](https://github.com/toozej/dotfiles) - Dotfiles (3 days ago)
+- [kemo](https://github.com/toozej/kemo) - Kubernetes Demo Runner (5 days ago)
 - [go-find-liquor](https://github.com/toozej/go-find-liquor) - Go Find Liquor (in Oregon) (1 week ago)
 - [photos2map](https://github.com/toozej/photos2map) - Generate GPX map from photos' EXIF data (1 week ago)
 - [RSSFFS](https://github.com/toozej/RSSFFS) - RSS Feed Finder [and] Subscriber (1 week ago)

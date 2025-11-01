@@ -12,9 +12,9 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [pebble-darkroom](https://github.com/toozej/pebble-darkroom) - A Pebble timer app for use in darkroom photography (4 days ago)
-- [kemo](https://github.com/toozej/kemo) - Kubernetes Demo Runner (5 days ago)
-- [dotfiles](https://github.com/toozej/dotfiles) - Dotfiles (5 days ago)
+- [pebble-darkroom](https://github.com/toozej/pebble-darkroom) - A Pebble timer app for use in darkroom photography (5 days ago)
+- [kemo](https://github.com/toozej/kemo) - Kubernetes Demo Runner (6 days ago)
+- [dotfiles](https://github.com/toozej/dotfiles) - Dotfiles (6 days ago)
 - [kmhd2spotify](https://github.com/toozej/kmhd2spotify) - Automatically sync songs from KMHD jazz radio to your Spotify playlists (1 week ago)
 - [RSSFFS](https://github.com/toozej/RSSFFS) - RSS Feed Finder [and] Subscriber (2 weeks ago)
 - [go-find-liquor](https://github.com/toozej/go-find-liquor) - Go Find Liquor (in Oregon) (2 weeks ago)

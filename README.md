@@ -12,9 +12,9 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [EXIFizer](https://github.com/toozej/EXIFizer) - Bulk EXIF Tagger for Film Photography (1 day ago)
-- [photos2map](https://github.com/toozej/photos2map) - Generate GPX map from photos' EXIF data (4 days ago)
-- [pebble-darkroom](https://github.com/toozej/pebble-darkroom) - A Pebble timer app for use in darkroom photography (1 week ago)
+- [EXIFizer](https://github.com/toozej/EXIFizer) - Bulk EXIF Tagger for Film Photography (2 days ago)
+- [pebble-darkroom](https://github.com/toozej/pebble-darkroom) - A Pebble timer app for use in darkroom photography (2 days ago)
+- [photos2map](https://github.com/toozej/photos2map) - Generate GPX map from photos' EXIF data (5 days ago)
 - [kemo](https://github.com/toozej/kemo) - Kubernetes Demo Runner (1 week ago)
 - [dotfiles](https://github.com/toozej/dotfiles) - Dotfiles (1 week ago)
 - [kmhd2spotify](https://github.com/toozej/kmhd2spotify) - Automatically sync songs from KMHD jazz radio to your Spotify playlists (2 weeks ago)

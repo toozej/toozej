@@ -12,13 +12,13 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [url2anki](https://github.com/toozej/url2anki) - Generate Anki flashcards from a URL (6 days ago)
-- [photos2map](https://github.com/toozej/photos2map) - Generate GPX map from photos' EXIF data (6 days ago)
-- [files2prompt](https://github.com/toozej/files2prompt) - LLM Prompt Generator From Local Files (6 days ago)
-- [go-find-liquor](https://github.com/toozej/go-find-liquor) - Go Find Liquor (in Oregon) (6 days ago)
-- [ghreleases2rss](https://github.com/toozej/ghreleases2rss) - Subscribe to GitHub projects’ releases in RSS reader (6 days ago)
-- [golang-starter](https://github.com/toozej/golang-starter) - Golang starter template (6 days ago)
-- [finas](https://github.com/toozej/finas) - FINAS Is Not A Shell (6 days ago)
-- [trails-completionist](https://github.com/toozej/trails-completionist) - Golang application to parse a list of trails, then display a searchable HTML table for ease of tracking completion of trails. (6 days ago)
+- [url2anki](https://github.com/toozej/url2anki) - Generate Anki flashcards from a URL (1 week ago)
+- [photos2map](https://github.com/toozej/photos2map) - Generate GPX map from photos' EXIF data (1 week ago)
+- [files2prompt](https://github.com/toozej/files2prompt) - LLM Prompt Generator From Local Files (1 week ago)
+- [go-find-liquor](https://github.com/toozej/go-find-liquor) - Go Find Liquor (in Oregon) (1 week ago)
+- [ghreleases2rss](https://github.com/toozej/ghreleases2rss) - Subscribe to GitHub projects’ releases in RSS reader (1 week ago)
+- [golang-starter](https://github.com/toozej/golang-starter) - Golang starter template (1 week ago)
+- [finas](https://github.com/toozej/finas) - FINAS Is Not A Shell (1 week ago)
+- [trails-completionist](https://github.com/toozej/trails-completionist) - Golang application to parse a list of trails, then display a searchable HTML table for ease of tracking completion of trails. (1 week ago)
 - [EXIFizer](https://github.com/toozej/EXIFizer) - Bulk EXIF Tagger for Film Photography (1 week ago)
 - [pebble-darkroom](https://github.com/toozej/pebble-darkroom) - A Pebble timer app for use in darkroom photography (1 week ago)

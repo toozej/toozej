@@ -12,13 +12,13 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [ansible](https://github.com/toozej/ansible) - Ansible (1 day ago)
-- [python-starter](https://github.com/toozej/python-starter) - python-starter (1 day ago)
-- [genARTrated](https://github.com/toozej/genARTrated) - A home for generated art (1 day ago)
-- [neovimfiles](https://github.com/toozej/neovimfiles) -  (1 day ago)
-- [git-peak-extended](https://github.com/toozej/git-peak-extended) - Quickly grab git repos temporarily or permanently (1 day ago)
-- [waffles](https://github.com/toozej/waffles) - LLM Workflow Orchestrator & Wrapper (3 days ago)
-- [photos2map](https://github.com/toozej/photos2map) - Generate GPX map from photos' EXIF data (3 days ago)
-- [golang-starter](https://github.com/toozej/golang-starter) - Golang starter template (3 days ago)
-- [url2anki](https://github.com/toozej/url2anki) - Generate Anki flashcards from a URL (3 days ago)
-- [trails-completionist](https://github.com/toozej/trails-completionist) - Golang application to parse a list of trails, then display a searchable HTML table for ease of tracking completion of trails. (3 days ago)
+- [waffles](https://github.com/toozej/waffles) - LLM Workflow Orchestrator & Wrapper (1 day ago)
+- [photos2map](https://github.com/toozej/photos2map) - Generate GPX map from photos' EXIF data (1 day ago)
+- [files2prompt](https://github.com/toozej/files2prompt) - LLM Prompt Generator From Local Files (1 day ago)
+- [go-find-liquor](https://github.com/toozej/go-find-liquor) - Go Find Liquor (in Oregon) (1 day ago)
+- [EXIFizer](https://github.com/toozej/EXIFizer) - Bulk EXIF Tagger for Film Photography (1 day ago)
+- [golang-starter](https://github.com/toozej/golang-starter) - Golang starter template (1 day ago)
+- [dinnerclub](https://github.com/toozej/dinnerclub) - Web application to facilitate reviewing and organizing get-togethers at restaurants (1 day ago)
+- [sn2ssg-py](https://github.com/toozej/sn2ssg-py) - Convert Simplenote notes to SSG-formatted Markdown files (1 day ago)
+- [travels](https://github.com/toozej/travels) - Travels and Adventures (1 day ago)
+- [trails-completionist](https://github.com/toozej/trails-completionist) - Golang application to parse a list of trails, then display a searchable HTML table for ease of tracking completion of trails. (1 day ago)

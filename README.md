@@ -12,13 +12,13 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [dotfiles](https://github.com/toozej/dotfiles) - Dotfiles (2 days ago)
-- [waffles](https://github.com/toozej/waffles) - LLM Workflow Orchestrator & Wrapper (5 days ago)
-- [go-listen](https://github.com/toozej/go-listen) - go-listen is a web application that allows users to search for artists and automatically add their top 5 songs to designated "incoming" playlists on Spotify (5 days ago)
-- [go-find-liquor](https://github.com/toozej/go-find-liquor) - Go Find Liquor (in Oregon) (5 days ago)
-- [sn2ssg-py](https://github.com/toozej/sn2ssg-py) - Convert Simplenote notes to SSG-formatted Markdown files (5 days ago)
-- [golang-starter](https://github.com/toozej/golang-starter) - Golang starter template (5 days ago)
-- [dinnerclub](https://github.com/toozej/dinnerclub) - Web application to facilitate reviewing and organizing get-togethers at restaurants (5 days ago)
-- [files2prompt](https://github.com/toozej/files2prompt) - LLM Prompt Generator From Local Files (5 days ago)
-- [travels](https://github.com/toozej/travels) - Travels and Adventures (5 days ago)
-- [trails-completionist](https://github.com/toozej/trails-completionist) - Golang application to parse a list of trails, then display a searchable HTML table for ease of tracking completion of trails. (5 days ago)
+- [dotfiles](https://github.com/toozej/dotfiles) - Dotfiles (3 days ago)
+- [waffles](https://github.com/toozej/waffles) - LLM Workflow Orchestrator & Wrapper (6 days ago)
+- [go-listen](https://github.com/toozej/go-listen) - go-listen is a web application that allows users to search for artists and automatically add their top 5 songs to designated "incoming" playlists on Spotify (6 days ago)
+- [go-find-liquor](https://github.com/toozej/go-find-liquor) - Go Find Liquor (in Oregon) (6 days ago)
+- [sn2ssg-py](https://github.com/toozej/sn2ssg-py) - Convert Simplenote notes to SSG-formatted Markdown files (6 days ago)
+- [golang-starter](https://github.com/toozej/golang-starter) - Golang starter template (6 days ago)
+- [dinnerclub](https://github.com/toozej/dinnerclub) - Web application to facilitate reviewing and organizing get-togethers at restaurants (6 days ago)
+- [files2prompt](https://github.com/toozej/files2prompt) - LLM Prompt Generator From Local Files (6 days ago)
+- [travels](https://github.com/toozej/travels) - Travels and Adventures (6 days ago)
+- [trails-completionist](https://github.com/toozej/trails-completionist) - Golang application to parse a list of trails, then display a searchable HTML table for ease of tracking completion of trails. (6 days ago)

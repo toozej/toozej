@@ -12,11 +12,11 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [go-find-goodwill](https://github.com/toozej/go-find-goodwill) - Goodwill Item Searcher + Notifier (1 day ago)
-- [RSSFFS](https://github.com/toozej/RSSFFS) - RSS Feed Finder [and] Subscriber (4 days ago)
-- [rss2mastodon](https://github.com/toozej/rss2mastodon) - Watches a RSS feed for new posts, then announces them on Mastodon (4 days ago)
-- [wheresmyprompt](https://github.com/toozej/wheresmyprompt) - LLM prompts-finding tool: search prompts stored in a Markdown file, and use selected prompt as a LLM system prompt (5 days ago)
-- [go-find-liquor](https://github.com/toozej/go-find-liquor) - Go Find Liquor (in Oregon) (5 days ago)
+- [go-find-goodwill](https://github.com/toozej/go-find-goodwill) - Goodwill Item Searcher + Notifier (2 days ago)
+- [RSSFFS](https://github.com/toozej/RSSFFS) - RSS Feed Finder [and] Subscriber (5 days ago)
+- [rss2mastodon](https://github.com/toozej/rss2mastodon) - Watches a RSS feed for new posts, then announces them on Mastodon (5 days ago)
+- [wheresmyprompt](https://github.com/toozej/wheresmyprompt) - LLM prompts-finding tool: search prompts stored in a Markdown file, and use selected prompt as a LLM system prompt (6 days ago)
+- [go-find-liquor](https://github.com/toozej/go-find-liquor) - Go Find Liquor (in Oregon) (6 days ago)
 - [dotfiles](https://github.com/toozej/dotfiles) - Dotfiles (1 week ago)
 - [ghreleases2rss](https://github.com/toozej/ghreleases2rss) - Subscribe to GitHub projects’ releases in RSS reader (1 week ago)
 - [dinnerclub](https://github.com/toozej/dinnerclub) - Web application to facilitate reviewing and organizing get-togethers at restaurants (1 week ago)

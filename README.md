@@ -12,13 +12,13 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [wheresmyprompt](https://github.com/toozej/wheresmyprompt) - LLM prompts-finding tool: search prompts stored in a Markdown file, and use selected prompt as a LLM system prompt (1 day ago)
-- [go-find-liquor](https://github.com/toozej/go-find-liquor) - Go Find Liquor (in Oregon) (1 day ago)
-- [dotfiles](https://github.com/toozej/dotfiles) - Dotfiles (1 day ago)
-- [go-listen](https://github.com/toozej/go-listen) - go-listen is a web application that allows users to search for artists and automatically add their top 5 songs to designated "incoming" playlists on Spotify (2 days ago)
-- [RSSFFS](https://github.com/toozej/RSSFFS) - RSS Feed Finder [and] Subscriber (2 days ago)
-- [pebble-darkroom](https://github.com/toozej/pebble-darkroom) - A Pebble timer app for use in darkroom photography (5 days ago)
-- [ansible](https://github.com/toozej/ansible) - Ansible (6 days ago)
+- [wheresmyprompt](https://github.com/toozej/wheresmyprompt) - LLM prompts-finding tool: search prompts stored in a Markdown file, and use selected prompt as a LLM system prompt (2 days ago)
+- [go-find-liquor](https://github.com/toozej/go-find-liquor) - Go Find Liquor (in Oregon) (2 days ago)
+- [dotfiles](https://github.com/toozej/dotfiles) - Dotfiles (2 days ago)
+- [go-listen](https://github.com/toozej/go-listen) - go-listen is a web application that allows users to search for artists and automatically add their top 5 songs to designated "incoming" playlists on Spotify (3 days ago)
+- [RSSFFS](https://github.com/toozej/RSSFFS) - RSS Feed Finder [and] Subscriber (3 days ago)
+- [pebble-darkroom](https://github.com/toozej/pebble-darkroom) - A Pebble timer app for use in darkroom photography (6 days ago)
+- [ansible](https://github.com/toozej/ansible) - Ansible (1 week ago)
 - [golang-starter](https://github.com/toozej/golang-starter) - Golang starter template (1 week ago)
 - [ghreleases2rss](https://github.com/toozej/ghreleases2rss) - Subscribe to GitHub projects’ releases in RSS reader (1 week ago)
 - [url2anki](https://github.com/toozej/url2anki) - Generate Anki flashcards from a URL (1 week ago)

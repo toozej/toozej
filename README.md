@@ -18,7 +18,7 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 - [RSSFFS](https://github.com/toozej/RSSFFS) - RSS Feed Finder [and] Subscriber (1 week ago)
 - [go-listen](https://github.com/toozej/go-listen) - go-listen is a web application that allows users to search for artists and automatically add their top 5 songs to designated "incoming" playlists on Spotify (1 week ago)
 - [pebble-darkroom](https://github.com/toozej/pebble-darkroom) - A Pebble timer app for use in darkroom photography (1 week ago)
-- [ansible](https://github.com/toozej/ansible) - Ansible (1 week ago)
+- [ansible](https://github.com/toozej/ansible) - Ansible (2 weeks ago)
 - [golang-starter](https://github.com/toozej/golang-starter) - Golang starter template (2 weeks ago)
 - [ghreleases2rss](https://github.com/toozej/ghreleases2rss) - Subscribe to GitHub projects’ releases in RSS reader (2 weeks ago)
 - [url2anki](https://github.com/toozej/url2anki) - Generate Anki flashcards from a URL (2 weeks ago)

@@ -19,6 +19,6 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 - [go-listen](https://github.com/toozej/go-listen) - go-listen is a web application that allows users to search for artists and automatically add their top 5 songs to designated "incoming" playlists on Spotify (1 week ago)
 - [pebble-darkroom](https://github.com/toozej/pebble-darkroom) - A Pebble timer app for use in darkroom photography (2 weeks ago)
 - [ansible](https://github.com/toozej/ansible) - Ansible (2 weeks ago)
-- [golang-starter](https://github.com/toozej/golang-starter) - Golang starter template (2 weeks ago)
-- [ghreleases2rss](https://github.com/toozej/ghreleases2rss) - Subscribe to GitHub projects’ releases in RSS reader (2 weeks ago)
+- [trails-completionist](https://github.com/toozej/trails-completionist) - Golang application to parse a list of trails, then display a searchable HTML table for ease of tracking completion of trails. (2 weeks ago)
+- [files2prompt](https://github.com/toozej/files2prompt) - LLM Prompt Generator From Local Files (2 weeks ago)
 - [url2anki](https://github.com/toozej/url2anki) - Generate Anki flashcards from a URL (2 weeks ago)

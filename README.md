@@ -12,13 +12,13 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [kemo](https://github.com/toozej/kemo) - Kubernetes Demo Runner (2 days ago)
-- [tools](https://github.com/toozej/tools) - Tools and web-apps (4 days ago)
-- [terranotate](https://github.com/toozej/terranotate) - Terraform Comment Parser and Validator (4 days ago)
-- [go-listen](https://github.com/toozej/go-listen) - go-listen is a web application that allows users to search for artists and automatically add their top 5 songs to designated "incoming" playlists on Spotify (5 days ago)
-- [photos2map](https://github.com/toozej/photos2map) - Generate GPX map from photos' EXIF data (5 days ago)
-- [golang-starter](https://github.com/toozej/golang-starter) - Golang starter template (5 days ago)
-- [rss2socials](https://github.com/toozej/rss2socials) - Watches a RSS feed for new posts, then announces them on Mastodon (5 days ago)
-- [trails-completionist](https://github.com/toozej/trails-completionist) - Golang application to parse a list of trails, then display a searchable HTML table for ease of tracking completion of trails. (5 days ago)
-- [url2anki](https://github.com/toozej/url2anki) - Generate Anki flashcards from a URL (5 days ago)
-- [go-find-liquor](https://github.com/toozej/go-find-liquor) - Go Find Liquor (in Oregon) (5 days ago)
+- [ocft-manager](https://github.com/toozej/ocft-manager) - Oracle Cloud Free Tier Manager (1 day ago)
+- [dotfiles](https://github.com/toozej/dotfiles) - Dotfiles (1 day ago)
+- [ansible](https://github.com/toozej/ansible) - Ansible (1 day ago)
+- [kemo](https://github.com/toozej/kemo) - Kubernetes Demo Runner (3 days ago)
+- [terranotate](https://github.com/toozej/terranotate) - Terraform Comment Parser and Validator (5 days ago)
+- [tools](https://github.com/toozej/tools) - Tools and web-apps (5 days ago)
+- [go-listen](https://github.com/toozej/go-listen) - go-listen is a web application that allows users to search for artists and automatically add their top 5 songs to designated "incoming" playlists on Spotify (6 days ago)
+- [kmhd2spotify](https://github.com/toozej/kmhd2spotify) - Automatically sync songs from KMHD jazz radio to your Spotify playlists (6 days ago)
+- [rss2socials](https://github.com/toozej/rss2socials) - Watches a RSS feed for new posts, then announces them on Mastodon (6 days ago)
+- [url2anki](https://github.com/toozej/url2anki) - Generate Anki flashcards from a URL (6 days ago)

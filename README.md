@@ -12,13 +12,13 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [python-starter](https://github.com/toozej/python-starter) - python-starter (1 day ago)
-- [EXIFizer](https://github.com/toozej/EXIFizer) - Bulk EXIF Tagger for Film Photography (1 day ago)
-- [terranotate](https://github.com/toozej/terranotate) - Terraform Comment Parser and Validator (2 days ago)
-- [ghreleases2rss](https://github.com/toozej/ghreleases2rss) - Subscribe to GitHub projects’ releases in RSS reader (2 days ago)
-- [go-find-liquor](https://github.com/toozej/go-find-liquor) - Go Find Liquor (in Oregon) (2 days ago)
-- [go-find-goodwill](https://github.com/toozej/go-find-goodwill) - Goodwill Item Searcher + Notifier (2 days ago)
-- [tools](https://github.com/toozej/tools) - Tools and web-apps (2 days ago)
-- [trails-completionist](https://github.com/toozej/trails-completionist) - Golang application to parse a list of trails, then display a searchable HTML table for ease of tracking completion of trails. (2 days ago)
-- [rss2socials](https://github.com/toozej/rss2socials) - Watches a RSS feed for new posts, then announces them on Mastodon (2 days ago)
-- [photos2map](https://github.com/toozej/photos2map) - Generate GPX map from photos' EXIF data (2 days ago)
+- [python-starter](https://github.com/toozej/python-starter) - python-starter (2 days ago)
+- [EXIFizer](https://github.com/toozej/EXIFizer) - Bulk EXIF Tagger for Film Photography (2 days ago)
+- [terranotate](https://github.com/toozej/terranotate) - Terraform Comment Parser and Validator (3 days ago)
+- [ghreleases2rss](https://github.com/toozej/ghreleases2rss) - Subscribe to GitHub projects’ releases in RSS reader (3 days ago)
+- [go-find-liquor](https://github.com/toozej/go-find-liquor) - Go Find Liquor (in Oregon) (3 days ago)
+- [go-find-goodwill](https://github.com/toozej/go-find-goodwill) - Goodwill Item Searcher + Notifier (3 days ago)
+- [tools](https://github.com/toozej/tools) - Tools and web-apps (3 days ago)
+- [trails-completionist](https://github.com/toozej/trails-completionist) - Golang application to parse a list of trails, then display a searchable HTML table for ease of tracking completion of trails. (3 days ago)
+- [rss2socials](https://github.com/toozej/rss2socials) - Watches a RSS feed for new posts, then announces them on Mastodon (3 days ago)
+- [photos2map](https://github.com/toozej/photos2map) - Generate GPX map from photos' EXIF data (3 days ago)

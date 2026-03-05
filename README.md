@@ -12,13 +12,13 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [python-starter](https://github.com/toozej/python-starter) - python-starter (2 days ago)
-- [EXIFizer](https://github.com/toozej/EXIFizer) - Bulk EXIF Tagger for Film Photography (4 days ago)
-- [terranotate](https://github.com/toozej/terranotate) - Terraform Comment Parser and Validator (5 days ago)
-- [ghreleases2rss](https://github.com/toozej/ghreleases2rss) - Subscribe to GitHub projects’ releases in RSS reader (5 days ago)
-- [go-find-liquor](https://github.com/toozej/go-find-liquor) - Go Find Liquor (in Oregon) (5 days ago)
-- [go-find-goodwill](https://github.com/toozej/go-find-goodwill) - Goodwill Item Searcher + Notifier (5 days ago)
-- [tools](https://github.com/toozej/tools) - Tools and web-apps (5 days ago)
-- [trails-completionist](https://github.com/toozej/trails-completionist) - Golang application to parse a list of trails, then display a searchable HTML table for ease of tracking completion of trails. (5 days ago)
-- [photos2map](https://github.com/toozej/photos2map) - Generate GPX map from photos' EXIF data (5 days ago)
-- [rss2socials](https://github.com/toozej/rss2socials) - Watches a RSS feed for new posts, then announces them on Mastodon (5 days ago)
+- [genARTrated](https://github.com/toozej/genARTrated) - A home for generated art (1 day ago)
+- [python-starter](https://github.com/toozej/python-starter) - python-starter (3 days ago)
+- [EXIFizer](https://github.com/toozej/EXIFizer) - Bulk EXIF Tagger for Film Photography (5 days ago)
+- [terranotate](https://github.com/toozej/terranotate) - Terraform Comment Parser and Validator (6 days ago)
+- [tools](https://github.com/toozej/tools) - Tools and web-apps (6 days ago)
+- [ghreleases2rss](https://github.com/toozej/ghreleases2rss) - Subscribe to GitHub projects’ releases in RSS reader (6 days ago)
+- [files2prompt](https://github.com/toozej/files2prompt) - LLM Prompt Generator From Local Files (6 days ago)
+- [RSSFFS](https://github.com/toozej/RSSFFS) - RSS Feed Finder [and] Subscriber (6 days ago)
+- [dotfiles](https://github.com/toozej/dotfiles) - Dotfiles (6 days ago)
+- [rss2socials](https://github.com/toozej/rss2socials) - Watches a RSS feed for new posts, then announces them on Mastodon (6 days ago)

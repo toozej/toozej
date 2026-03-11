@@ -12,13 +12,13 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [pebble-darkroom](https://github.com/toozej/pebble-darkroom) - A Pebble timer app for use in darkroom photography (1 day ago)
-- [python-starter](https://github.com/toozej/python-starter) - python-starter (1 day ago)
-- [url2anki](https://github.com/toozej/url2anki) - Generate Anki flashcards from a URL (1 day ago)
-- [RSSFFS](https://github.com/toozej/RSSFFS) - RSS Feed Finder [and] Subscriber (2 days ago)
-- [golang-starter](https://github.com/toozej/golang-starter) - Golang starter template (2 days ago)
-- [rss2socials](https://github.com/toozej/rss2socials) - Watches a RSS feed for new posts, then announces them on Mastodon (3 days ago)
-- [files2prompt](https://github.com/toozej/files2prompt) - LLM Prompt Generator From Local Files (3 days ago)
-- [EXIFizer](https://github.com/toozej/EXIFizer) - Bulk EXIF Tagger for Film Photography (3 days ago)
-- [tools](https://github.com/toozej/tools) - Tools and web-apps (3 days ago)
-- [terranotate](https://github.com/toozej/terranotate) - Terraform Comment Parser and Validator (4 days ago)
+- [photos2map](https://github.com/toozej/photos2map) - Generate GPX map from photos' EXIF data (1 day ago)
+- [url2anki](https://github.com/toozej/url2anki) - Generate Anki flashcards from a URL (2 days ago)
+- [pebble-darkroom](https://github.com/toozej/pebble-darkroom) - A Pebble timer app for use in darkroom photography (2 days ago)
+- [python-starter](https://github.com/toozej/python-starter) - python-starter (2 days ago)
+- [RSSFFS](https://github.com/toozej/RSSFFS) - RSS Feed Finder [and] Subscriber (3 days ago)
+- [golang-starter](https://github.com/toozej/golang-starter) - Golang starter template (3 days ago)
+- [files2prompt](https://github.com/toozej/files2prompt) - LLM Prompt Generator From Local Files (4 days ago)
+- [tools](https://github.com/toozej/tools) - Tools and web-apps (4 days ago)
+- [EXIFizer](https://github.com/toozej/EXIFizer) - Bulk EXIF Tagger for Film Photography (4 days ago)
+- [rss2socials](https://github.com/toozej/rss2socials) - Watches a RSS feed for new posts, then announces them on Mastodon (4 days ago)

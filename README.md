@@ -12,13 +12,13 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [python-starter](https://github.com/toozej/python-starter) - python-starter (2 days ago)
-- [EXIFizer](https://github.com/toozej/EXIFizer) - Bulk EXIF Tagger for Film Photography (4 days ago)
-- [go-listen](https://github.com/toozej/go-listen) - go-listen is a web application that allows users to search for artists and automatically add their top 5 songs to designated "incoming" playlists on Spotify (6 days ago)
-- [wheresmyprompt](https://github.com/toozej/wheresmyprompt) - LLM prompts-finding tool: search prompts stored in a Markdown file, and use selected prompt as a LLM system prompt (6 days ago)
-- [terranotate](https://github.com/toozej/terranotate) - Terraform Comment Parser and Validator (6 days ago)
-- [waffles](https://github.com/toozej/waffles) - LLM Workflow Orchestrator & Wrapper (6 days ago)
-- [kmhd2spotify](https://github.com/toozej/kmhd2spotify) - Automatically sync songs from KMHD jazz radio to your Spotify playlists (6 days ago)
-- [tools](https://github.com/toozej/tools) - Tools and web-apps (6 days ago)
+- [python-starter](https://github.com/toozej/python-starter) - python-starter (3 days ago)
+- [EXIFizer](https://github.com/toozej/EXIFizer) - Bulk EXIF Tagger for Film Photography (5 days ago)
+- [go-listen](https://github.com/toozej/go-listen) - go-listen is a web application that allows users to search for artists and automatically add their top 5 songs to designated "incoming" playlists on Spotify (1 week ago)
+- [wheresmyprompt](https://github.com/toozej/wheresmyprompt) - LLM prompts-finding tool: search prompts stored in a Markdown file, and use selected prompt as a LLM system prompt (1 week ago)
+- [terranotate](https://github.com/toozej/terranotate) - Terraform Comment Parser and Validator (1 week ago)
+- [waffles](https://github.com/toozej/waffles) - LLM Workflow Orchestrator & Wrapper (1 week ago)
+- [kmhd2spotify](https://github.com/toozej/kmhd2spotify) - Automatically sync songs from KMHD jazz radio to your Spotify playlists (1 week ago)
+- [tools](https://github.com/toozej/tools) - Tools and web-apps (1 week ago)
 - [trails-completionist](https://github.com/toozej/trails-completionist) - Golang application to parse a list of trails, then display a searchable HTML table for ease of tracking completion of trails. (1 week ago)
 - [photos2map](https://github.com/toozej/photos2map) - Generate GPX map from photos' EXIF data (1 week ago)

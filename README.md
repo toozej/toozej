@@ -12,10 +12,10 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [tools](https://github.com/toozej/tools) - Tools and web-apps (2 days ago)
-- [python-starter](https://github.com/toozej/python-starter) - python-starter (3 days ago)
-- [EXIFizer](https://github.com/toozej/EXIFizer) - Bulk EXIF Tagger for Film Photography (5 days ago)
-- [go-find-liquor](https://github.com/toozej/go-find-liquor) - Go Find Liquor (in Oregon) (6 days ago)
+- [tools](https://github.com/toozej/tools) - Tools and web-apps (3 days ago)
+- [python-starter](https://github.com/toozej/python-starter) - python-starter (4 days ago)
+- [EXIFizer](https://github.com/toozej/EXIFizer) - Bulk EXIF Tagger for Film Photography (6 days ago)
+- [go-find-liquor](https://github.com/toozej/go-find-liquor) - Go Find Liquor (in Oregon) (1 week ago)
 - [go-listen](https://github.com/toozej/go-listen) - go-listen is a web application that allows users to search for artists and automatically add their top 5 songs to designated "incoming" playlists on Spotify (1 week ago)
 - [url2anki](https://github.com/toozej/url2anki) - Generate Anki flashcards from a URL (1 week ago)
 - [ghreleases2rss](https://github.com/toozej/ghreleases2rss) - Subscribe to GitHub projects’ releases in RSS reader (1 week ago)

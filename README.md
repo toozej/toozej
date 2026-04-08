@@ -12,13 +12,13 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [tools](https://github.com/toozej/tools) - Tools and web-apps (1 day ago)
+- [wheresmyprompt](https://github.com/toozej/wheresmyprompt) - LLM prompts-finding tool: search prompts stored in a Markdown file, and use selected prompt as a LLM system prompt (1 day ago)
+- [RSSFFS](https://github.com/toozej/RSSFFS) - RSS Feed Finder [and] Subscriber (1 day ago)
 - [python-starter](https://github.com/toozej/python-starter) - python-starter (1 day ago)
-- [travels](https://github.com/toozej/travels) - Travels and Adventures (3 days ago)
-- [EXIFizer](https://github.com/toozej/EXIFizer) - Bulk EXIF Tagger for Film Photography (3 days ago)
-- [rss2socials](https://github.com/toozej/rss2socials) - Watches a RSS feed for new posts, then announces them on Mastodon (4 days ago)
-- [url2anki](https://github.com/toozej/url2anki) - Generate Anki flashcards from a URL (4 days ago)
-- [ghreleases2rss](https://github.com/toozej/ghreleases2rss) - Subscribe to GitHub projects’ releases in RSS reader (4 days ago)
-- [golang-starter](https://github.com/toozej/golang-starter) - Golang starter template (4 days ago)
-- [photos2map](https://github.com/toozej/photos2map) - Generate GPX map from photos' EXIF data (4 days ago)
-- [go-listen](https://github.com/toozej/go-listen) - go-listen is a web application that allows users to search for artists and automatically add their top 5 songs to designated "incoming" playlists on Spotify (4 days ago)
+- [chips](https://github.com/toozej/chips) - Spotify to Youtube Music "CHIPS" Playlist Cloner (1 day ago)
+- [waffles](https://github.com/toozej/waffles) - LLM Workflow Orchestrator & Wrapper (1 day ago)
+- [tools](https://github.com/toozej/tools) - Tools and web-apps (2 days ago)
+- [travels](https://github.com/toozej/travels) - Travels and Adventures (4 days ago)
+- [EXIFizer](https://github.com/toozej/EXIFizer) - Bulk EXIF Tagger for Film Photography (4 days ago)
+- [go-find-liquor](https://github.com/toozej/go-find-liquor) - Go Find Liquor (in Oregon) (5 days ago)
+- [go-listen](https://github.com/toozej/go-listen) - go-listen is a web application that allows users to search for artists and automatically add their top 5 songs to designated "incoming" playlists on Spotify (5 days ago)

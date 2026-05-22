@@ -12,13 +12,13 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [go-find-archived-gh-actions](https://github.com/toozej/go-find-archived-gh-actions) - Find archived GitHub Actions in use in GHA Workflows with optional notifications and GH Issue creation (2 days ago)
-- [photos2map](https://github.com/toozej/photos2map) - Generate GPX map from photos' EXIF data (2 days ago)
-- [url2anki](https://github.com/toozej/url2anki) - Generate Anki flashcards from a URL (3 days ago)
-- [python-starter](https://github.com/toozej/python-starter) - python-starter (3 days ago)
-- [travels](https://github.com/toozej/travels) - Travels and Adventures (3 days ago)
-- [golang-starter](https://github.com/toozej/golang-starter) - Golang starter template (4 days ago)
-- [RSSFFS](https://github.com/toozej/RSSFFS) - RSS Feed Finder [and] Subscriber (4 days ago)
-- [files2prompt](https://github.com/toozej/files2prompt) - LLM Prompt Generator From Local Files (5 days ago)
-- [rss2socials](https://github.com/toozej/rss2socials) - Watches a RSS feed for new posts, then announces them on Mastodon (5 days ago)
-- [EXIFizer](https://github.com/toozej/EXIFizer) - Bulk EXIF Tagger for Film Photography (5 days ago)
+- [go-find-archived-gh-actions](https://github.com/toozej/go-find-archived-gh-actions) - Find archived GitHub Actions in use in GHA Workflows with optional notifications and GH Issue creation (3 days ago)
+- [photos2map](https://github.com/toozej/photos2map) - Generate GPX map from photos' EXIF data (3 days ago)
+- [url2anki](https://github.com/toozej/url2anki) - Generate Anki flashcards from a URL (4 days ago)
+- [python-starter](https://github.com/toozej/python-starter) - python-starter (4 days ago)
+- [travels](https://github.com/toozej/travels) - Travels and Adventures (4 days ago)
+- [golang-starter](https://github.com/toozej/golang-starter) - Golang starter template (5 days ago)
+- [RSSFFS](https://github.com/toozej/RSSFFS) - RSS Feed Finder [and] Subscriber (5 days ago)
+- [files2prompt](https://github.com/toozej/files2prompt) - LLM Prompt Generator From Local Files (6 days ago)
+- [rss2socials](https://github.com/toozej/rss2socials) - Watches a RSS feed for new posts, then announces them on Mastodon (6 days ago)
+- [EXIFizer](https://github.com/toozej/EXIFizer) - Bulk EXIF Tagger for Film Photography (6 days ago)

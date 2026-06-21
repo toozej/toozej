@@ -4,21 +4,21 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### 👨💻 Repositories I created recently
 
+- [monogo](https://github.com/toozej/monogo) - Go mono-repo
 - [gotts-it](https://github.com/toozej/gotts-it) - Go-based Text-To-Speech Tool
 - [lego-stego](https://github.com/toozej/lego-stego) - Go-based CLI tool for Steganography
 - [go-sort-out-gh-actions](https://github.com/toozej/go-sort-out-gh-actions) - Find archived, outdated, EOL runtime GitHub Actions in use in GHA Workflows with optional notifications, auto-updates, pinning, and GH Issue creation
 - [tools](https://github.com/toozej/tools) - Tools and web-apps
-- [terranotate](https://github.com/toozej/terranotate) - Terraform Comment Parser and Validator
 
 #### ⛏️ What I've been working on
 
-- [gotts-it](https://github.com/toozej/gotts-it) - Go-based Text-To-Speech Tool (1 day ago)
-- [url2anki](https://github.com/toozej/url2anki) - Generate Anki flashcards from a URL (1 day ago)
-- [ghreleases2rss](https://github.com/toozej/ghreleases2rss) - Subscribe to GitHub projects’ releases in RSS reader (1 day ago)
-- [go-find-liquor](https://github.com/toozej/go-find-liquor) - Go Find Liquor (in Oregon) (1 day ago)
-- [golang-starter](https://github.com/toozej/golang-starter) - Golang starter template (1 day ago)
-- [lego-stego](https://github.com/toozej/lego-stego) - Go-based CLI tool for Steganography (1 day ago)
-- [rss2socials](https://github.com/toozej/rss2socials) - Watches a RSS feed for new posts, then announces them on Mastodon (1 day ago)
-- [RSSFFS](https://github.com/toozej/RSSFFS) - RSS Feed Finder [and] Subscriber (1 day ago)
-- [files2prompt](https://github.com/toozej/files2prompt) - LLM Prompt Generator From Local Files (1 day ago)
-- [trails-completionist](https://github.com/toozej/trails-completionist) - Golang application to parse a list of trails, then display a searchable HTML table for ease of tracking completion of trails. (1 day ago)
+- [EXIFizer](https://github.com/toozej/EXIFizer) - Bulk EXIF Tagger for Film Photography (1 day ago)
+- [neovim-ci](https://github.com/toozej/neovim-ci) -  (1 day ago)
+- [git-peak-extended](https://github.com/toozej/git-peak-extended) - Quickly grab git repos temporarily or permanently (1 day ago)
+- [neovimfiles](https://github.com/toozej/neovimfiles) -  (1 day ago)
+- [sn2ssg-py](https://github.com/toozej/sn2ssg-py) - Convert Simplenote notes to SSG-formatted Markdown files (1 day ago)
+- [python-starter](https://github.com/toozej/python-starter) - python-starter (1 day ago)
+- [genARTrated](https://github.com/toozej/genARTrated) - A home for generated art (1 day ago)
+- [ansible](https://github.com/toozej/ansible) - Ansible (1 day ago)
+- [pebble-darkroom](https://github.com/toozej/pebble-darkroom) - A Pebble timer app for use in darkroom photography (1 day ago)
+- [gotts-it](https://github.com/toozej/gotts-it) - Go-based Text-To-Speech Tool (2 days ago)

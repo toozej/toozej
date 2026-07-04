@@ -12,13 +12,13 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [dotfiles](https://github.com/toozej/dotfiles) - Dotfiles (1 day ago)
-- [EXIFizer](https://github.com/toozej/EXIFizer) - Bulk EXIF Tagger for Film Photography (1 day ago)
-- [python-starter](https://github.com/toozej/python-starter) - python-starter (4 days ago)
-- [monogo](https://github.com/toozej/monogo) - Go mono-repo (4 days ago)
-- [travels](https://github.com/toozej/travels) - Travels and Adventures (4 days ago)
-- [photos2map](https://github.com/toozej/photos2map) - Generate GPX map from photos' EXIF data (1 week ago)
-- [url2anki](https://github.com/toozej/url2anki) - Generate Anki flashcards from a URL (1 week ago)
-- [golang-starter](https://github.com/toozej/golang-starter) - Golang starter template (1 week ago)
-- [rss2socials](https://github.com/toozej/rss2socials) - Watches a RSS feed for new posts, then announces them on Mastodon (1 week ago)
-- [RSSFFS](https://github.com/toozej/RSSFFS) - RSS Feed Finder [and] Subscriber (1 week ago)
+- [go-sort-out-gh-actions](https://github.com/toozej/go-sort-out-gh-actions) - Find archived, outdated, EOL runtime GitHub Actions in use in GHA Workflows with optional notifications, auto-updates, pinning, and GH Issue creation (1 day ago)
+- [tools](https://github.com/toozej/tools) - Tools and web-apps (1 day ago)
+- [gotts-it](https://github.com/toozej/gotts-it) - Go-based Text-To-Speech Tool (1 day ago)
+- [monogo](https://github.com/toozej/monogo) - Go mono-repo (1 day ago)
+- [go-find-liquor](https://github.com/toozej/go-find-liquor) - Go Find Liquor (in Oregon) (1 day ago)
+- [rss2socials](https://github.com/toozej/rss2socials) - Watches a RSS feed for new posts, then announces them on Mastodon (1 day ago)
+- [lego-stego](https://github.com/toozej/lego-stego) - Go-based CLI tool for Steganography (1 day ago)
+- [dotfiles](https://github.com/toozej/dotfiles) - Dotfiles (2 days ago)
+- [EXIFizer](https://github.com/toozej/EXIFizer) - Bulk EXIF Tagger for Film Photography (2 days ago)
+- [travels](https://github.com/toozej/travels) - Travels and Adventures (5 days ago)

@@ -12,13 +12,13 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [monogo](https://github.com/toozej/monogo) - Go mono-repo (1 day ago)
-- [travels](https://github.com/toozej/travels) - Travels and Adventures (1 day ago)
-- [golang-starter](https://github.com/toozej/golang-starter) - Golang starter template (4 days ago)
-- [tools](https://github.com/toozej/tools) - Tools and web-apps (4 days ago)
-- [homebrew-tap](https://github.com/toozej/homebrew-tap) - Homebrew Formulae to toozej's various binaries, powered by @goreleaser (5 days ago)
-- [go-sort-out-gh-actions](https://github.com/toozej/go-sort-out-gh-actions) - Find archived, outdated, EOL runtime GitHub Actions in use in GHA Workflows with optional notifications, auto-updates, pinning, and GH Issue creation (6 days ago)
-- [kmhd2playlist](https://github.com/toozej/kmhd2playlist) - Automatically sync songs from KMHD jazz radio to your Spotify playlists (6 days ago)
-- [ghreleases2rss](https://github.com/toozej/ghreleases2rss) - Subscribe to GitHub projects’ releases in RSS reader (6 days ago)
-- [rss2socials](https://github.com/toozej/rss2socials) - Watches a RSS feed for new posts, then announces them on Mastodon (6 days ago)
-- [RSSFFS](https://github.com/toozej/RSSFFS) - RSS Feed Finder [and] Subscriber (6 days ago)
+- [python-starter](https://github.com/toozej/python-starter) - python-starter (2 days ago)
+- [monogo](https://github.com/toozej/monogo) - Go mono-repo (2 days ago)
+- [travels](https://github.com/toozej/travels) - Travels and Adventures (2 days ago)
+- [golang-starter](https://github.com/toozej/golang-starter) - Golang starter template (5 days ago)
+- [tools](https://github.com/toozej/tools) - Tools and web-apps (5 days ago)
+- [homebrew-tap](https://github.com/toozej/homebrew-tap) - Homebrew Formulae to toozej's various binaries, powered by @goreleaser (6 days ago)
+- [go-sort-out-gh-actions](https://github.com/toozej/go-sort-out-gh-actions) - Find archived, outdated, EOL runtime GitHub Actions in use in GHA Workflows with optional notifications, auto-updates, pinning, and GH Issue creation (1 week ago)
+- [terranotate](https://github.com/toozej/terranotate) - Terraform Comment Parser and Validator (1 week ago)
+- [rss2socials](https://github.com/toozej/rss2socials) - Watches a RSS feed for new posts, then announces them on Mastodon (1 week ago)
+- [RSSFFS](https://github.com/toozej/RSSFFS) - RSS Feed Finder [and] Subscriber (1 week ago)

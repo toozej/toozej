@@ -12,13 +12,13 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [tools](https://github.com/toozej/tools) - Tools and web-apps (3 days ago)
-- [monogo](https://github.com/toozej/monogo) - Go mono-repo (3 days ago)
-- [python-starter](https://github.com/toozej/python-starter) - python-starter (1 week ago)
-- [travels](https://github.com/toozej/travels) - Travels and Adventures (1 week ago)
+- [travels](https://github.com/toozej/travels) - Travels and Adventures (1 day ago)
+- [python-starter](https://github.com/toozej/python-starter) - python-starter (1 day ago)
+- [git-peak-extended](https://github.com/toozej/git-peak-extended) - Quickly grab git repos temporarily or permanently (1 day ago)
+- [neovimfiles](https://github.com/toozej/neovimfiles) -  (1 day ago)
+- [genARTrated](https://github.com/toozej/genARTrated) - A home for generated art (1 day ago)
+- [ansible](https://github.com/toozej/ansible) - Ansible (1 day ago)
+- [EXIFizer](https://github.com/toozej/EXIFizer) - Bulk EXIF Tagger for Film Photography (1 day ago)
+- [tools](https://github.com/toozej/tools) - Tools and web-apps (4 days ago)
+- [monogo](https://github.com/toozej/monogo) - Go mono-repo (4 days ago)
 - [golang-starter](https://github.com/toozej/golang-starter) - Golang starter template (1 week ago)
-- [homebrew-tap](https://github.com/toozej/homebrew-tap) - Homebrew Formulae to toozej's various binaries, powered by @goreleaser (1 week ago)
-- [go-sort-out-gh-actions](https://github.com/toozej/go-sort-out-gh-actions) - Find archived, outdated, EOL runtime GitHub Actions in use in GHA Workflows with optional notifications, auto-updates, pinning, and GH Issue creation (1 week ago)
-- [terranotate](https://github.com/toozej/terranotate) - Terraform Comment Parser and Validator (1 week ago)
-- [rss2socials](https://github.com/toozej/rss2socials) - Watches a RSS feed for new posts, then announces them on Mastodon (1 week ago)
-- [RSSFFS](https://github.com/toozej/RSSFFS) - RSS Feed Finder [and] Subscriber (1 week ago)

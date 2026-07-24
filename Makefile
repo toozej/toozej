@@ -29,9 +29,13 @@ LDFLAGS = -s -w \
 BINARY_NAME = readme-gen
 BIN_DIR = $(CURDIR)/bin
 
-.PHONY: all tidy fmt vet test build run clean help
+.PHONY: all update tidy fmt vet test build run clean help
 
-all: tidy fmt vet test build ## Run default workflow (tidy, fmt, vet, test, build)
+all: update tidy fmt vet test build ## Run default workflow (update, tidy, fmt, vet, test, build)
+
+update: ## Update Go module dependencies (go.mod and go.sum)
+	go get -u ./...
+	go mod tidy
 
 tidy: ## Run `go mod tidy`
 	go mod tidy

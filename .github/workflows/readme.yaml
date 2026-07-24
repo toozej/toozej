@@ -7,21 +7,27 @@ on:
     - cron: "0 0 * * *"
 
 jobs:
-  markscribe:
+  readme-gen:
+    name: Generate README
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
       - uses: actions/checkout@v7
-      - name: Run markscribe
-        run: docker run --rm -v "${{ github.workspace }}:/work" -w /work -e GITHUB_TOKEN="${{ secrets.PERSONAL_GITHUB_TOKEN }}" ghcr.io/charmbracelet/markscribe -write README.md templates/README.md.tpl
-      - uses: stefanzweifel/git-auto-commit-action@v5
+      - uses: actions/setup-go@v7
+        with:
+          go-version-file: go.mod
+          cache: true
+      - name: Build readme-gen
+        run: make build
+      - name: Run readme-gen
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: make run
+      - uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: 'Update generated README'
           branch: main
-          commit_user_name: readme-scribe 🤖
+          commit_user_name: readme-gen 🤖
           commit_user_email: actions@github.com
-          commit_author: readme-scribe 🤖 <actions@github.com>
-
+          commit_author: readme-gen 🤖 <actions@github.com>

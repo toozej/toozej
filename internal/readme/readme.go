@@ -98,8 +98,14 @@ func (c *Client) recentCreatedRepos(user string, n int) ([]Repo, error) {
 	return out, nil
 }
 
+// watchEventType is the GitHub event type emitted when a user stars a
+// repository. Starred repos are not contributions and should not appear in
+// the "What I've been working on" section.
+const watchEventType = "WatchEvent"
+
 // recentContributions returns up to n recent public activity events for user,
-// deduplicated by repository (most recent occurrence per repo wins).
+// deduplicated by repository (most recent occurrence per repo wins), with
+// star events (WatchEvent) excluded.
 func (c *Client) recentContributions(user string, n int) ([]Contribution, error) {
 	ctx, cancel := context.WithTimeout(context.Background(), 30*time.Second)
 	defer cancel()
@@ -108,10 +114,25 @@ func (c *Client) recentContributions(user string, n int) ([]Contribution, error)
 	if err != nil {
 		return nil, fmt.Errorf("list user events: %w", err)
 	}
-	// Deduplicate by repo name, keeping the most recent occurrence.
+	out := filterAndDedupeEvents(events)
+	if n > 0 && len(out) > n {
+		out = out[:n]
+	}
+	return out, nil
+}
+
+// filterAndDedupeEvents converts a slice of GitHub events into a slice of
+// Contributions, filtered to exclude non-contribution event types (e.g.
+// WatchEvent for starring repos) and deduplicated by repository name,
+// keeping the most recent occurrence per repo. The result is sorted by
+// OccurredAt in descending order.
+func filterAndDedupeEvents(events []*github.Event) []Contribution {
 	byRepo := make(map[string]Contribution, len(events))
 	for _, ev := range events {
 		if ev == nil || ev.Repo == nil {
+			continue
+		}
+		if ev.GetType() == watchEventType {
 			continue
 		}
 		name := ev.Repo.GetName()
@@ -138,10 +159,7 @@ func (c *Client) recentContributions(user string, n int) ([]Contribution, error)
 	sort.Slice(out, func(i, j int) bool {
 		return out[i].OccurredAt.After(out[j].OccurredAt)
 	})
-	if n > 0 && len(out) > n {
-		out = out[:n]
-	}
-	return out, nil
+	return out
 }
 
 // humanize returns a short human-readable string for the time delta, like

@@ -1,3 +1,4 @@
+---
 name: Update README
 
 on:
@@ -13,21 +14,21 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v7
-      - uses: actions/setup-go@v7
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - uses: toozej/monogo/apps/github-readme-gen@main
         with:
-          go-version-file: go.mod
-          cache: true
-      - name: Build readme-gen
-        run: make build
-      - name: Run readme-gen
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: make run
-      - uses: stefanzweifel/git-auto-commit-action@v7
-        with:
-          commit_message: 'Update generated README'
-          branch: main
-          commit_user_name: readme-gen 🤖
-          commit_user_email: actions@github.com
-          commit_author: readme-gen 🤖 <actions@github.com>
+          user: toozej
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit generated README
+        run: |
+          set -euo pipefail
+
+          git config user.name 'readme-gen 🤖'
+          git config user.email actions@github.com
+          git add -- README.md
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+
+          git commit --message 'Update generated README'
+          git push

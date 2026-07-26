@@ -30,9 +30,10 @@ type Contribution struct {
 
 // Data is the data passed to the README template.
 type Data struct {
-	Username string
-	// RecentCreatedRepos is populated by the recentCreatedRepos template func.
-	// RecentContributions is populated by the recentContributions template func.
+	Username            string
+	RecentCreatedRepos  []Repo
+	RecentContributions []Contribution
+	RecentStarredRepos  []Repo
 }
 
 // Client is a thin wrapper around the GitHub API client.
@@ -58,19 +59,29 @@ func NewClient(ctx context.Context, token string) *Client {
 
 // Fetch collects the data needed to render the README for the given user.
 func (c *Client) Fetch(ctx context.Context, user string) (*Data, error) {
-	_ = ctx
-	_ = user
-	// The template pulls data via template functions which lazily call
-	// back into the client; we just hand the client to the template here.
-	return &Data{Username: user}, nil
+	starredRepos, starredRepoNames, err := c.recentStarredRepos(ctx, user, 5)
+	if err != nil {
+		return nil, err
+	}
+	createdRepos, err := c.recentCreatedRepos(ctx, user, 5, starredRepoNames)
+	if err != nil {
+		return nil, err
+	}
+	contributions, err := c.recentContributions(ctx, user, 10, starredRepoNames)
+	if err != nil {
+		return nil, err
+	}
+	return &Data{
+		Username:            user,
+		RecentCreatedRepos:  createdRepos,
+		RecentContributions: contributions,
+		RecentStarredRepos:  starredRepos,
+	}, nil
 }
 
 // recentCreatedRepos returns the n most recently created public repositories
 // owned by user.
-func (c *Client) recentCreatedRepos(user string, n int) ([]Repo, error) {
-	ctx, cancel := context.WithTimeout(context.Background(), 30*time.Second)
-	defer cancel()
-
+func (c *Client) recentCreatedRepos(ctx context.Context, user string, n int, excluded map[string]struct{}) ([]Repo, error) {
 	opt := &github.RepositoryListByUserOptions{
 		Sort:        "created",
 		Direction:   "desc",
@@ -81,12 +92,12 @@ func (c *Client) recentCreatedRepos(user string, n int) ([]Repo, error) {
 	if err != nil {
 		return nil, fmt.Errorf("list user repos: %w", err)
 	}
-	if n > 0 && len(repos) > n {
-		repos = repos[:n]
-	}
 	out := make([]Repo, 0, len(repos))
 	for _, r := range repos {
 		if r == nil {
+			continue
+		}
+		if _, ok := excluded[r.GetFullName()]; ok {
 			continue
 		}
 		out = append(out, Repo{
@@ -94,8 +105,51 @@ func (c *Client) recentCreatedRepos(user string, n int) ([]Repo, error) {
 			URL:         r.GetHTMLURL(),
 			Description: r.GetDescription(),
 		})
+		if n > 0 && len(out) == n {
+			break
+		}
 	}
 	return out, nil
+}
+
+// recentStarredRepos returns the n most recently starred public repositories
+// and the complete set of starred repository names. The set keeps starred
+// repositories out of every other README section.
+func (c *Client) recentStarredRepos(ctx context.Context, user string, n int) ([]Repo, map[string]struct{}, error) {
+	starred := make([]Repo, 0, n)
+	names := make(map[string]struct{})
+	opt := &github.ActivityListStarredOptions{
+		Sort:      "created",
+		Direction: "desc",
+		ListOptions: github.ListOptions{
+			PerPage: 100,
+		},
+	}
+	for {
+		repos, resp, err := c.gh.Activity.ListStarred(ctx, user, opt)
+		if err != nil {
+			return nil, nil, fmt.Errorf("list starred repos: %w", err)
+		}
+		for _, starredRepo := range repos {
+			if starredRepo == nil || starredRepo.Repository == nil {
+				continue
+			}
+			repo := starredRepo.Repository
+			names[repo.GetFullName()] = struct{}{}
+			if n <= 0 || len(starred) < n {
+				starred = append(starred, Repo{
+					Name:        repo.GetFullName(),
+					URL:         repo.GetHTMLURL(),
+					Description: repo.GetDescription(),
+				})
+			}
+		}
+		if resp.NextPage == 0 {
+			break
+		}
+		opt.Page = resp.NextPage
+	}
+	return starred, names, nil
 }
 
 // watchEventType is the GitHub event type emitted when a user stars a
@@ -106,15 +160,12 @@ const watchEventType = "WatchEvent"
 // recentContributions returns up to n recent public activity events for user,
 // deduplicated by repository (most recent occurrence per repo wins), with
 // star events (WatchEvent) excluded.
-func (c *Client) recentContributions(user string, n int) ([]Contribution, error) {
-	ctx, cancel := context.WithTimeout(context.Background(), 30*time.Second)
-	defer cancel()
-
+func (c *Client) recentContributions(ctx context.Context, user string, n int, excluded map[string]struct{}) ([]Contribution, error) {
 	events, _, err := c.gh.Activity.ListEventsPerformedByUser(ctx, user, false, &github.ListOptions{PerPage: 100})
 	if err != nil {
 		return nil, fmt.Errorf("list user events: %w", err)
 	}
-	out := filterAndDedupeEvents(events)
+	out := filterAndDedupeEventsExcluding(events, excluded)
 	if n > 0 && len(out) > n {
 		out = out[:n]
 	}
@@ -127,6 +178,12 @@ func (c *Client) recentContributions(user string, n int) ([]Contribution, error)
 // keeping the most recent occurrence per repo. The result is sorted by
 // OccurredAt in descending order.
 func filterAndDedupeEvents(events []*github.Event) []Contribution {
+	return filterAndDedupeEventsExcluding(events, nil)
+}
+
+// filterAndDedupeEventsExcluding also omits repositories in excluded, which
+// ensures repositories in the starred section do not appear elsewhere.
+func filterAndDedupeEventsExcluding(events []*github.Event, excluded map[string]struct{}) []Contribution {
 	byRepo := make(map[string]Contribution, len(events))
 	for _, ev := range events {
 		if ev == nil || ev.Repo == nil {
@@ -136,6 +193,9 @@ func filterAndDedupeEvents(events []*github.Event) []Contribution {
 			continue
 		}
 		name := ev.Repo.GetName()
+		if _, ok := excluded[name]; ok {
+			continue
+		}
 		if _, seen := byRepo[name]; seen {
 			continue
 		}
@@ -212,19 +272,7 @@ func Render(templatePath, outputPath string, data *Data) error {
 	if err != nil {
 		return fmt.Errorf("read template: %w", err)
 	}
-	// We re-create a client here so the template can call the data-fetching
-	// functions; in practice Fetch returns the username and the funcs do the
-	// real work.
-	c := NewClient(context.Background(), os.Getenv("GITHUB_TOKEN"))
-	funcs := template.FuncMap{
-		"recentCreatedRepos": func(user string, n int) ([]Repo, error) {
-			return c.recentCreatedRepos(user, n)
-		},
-		"recentContributions": func(n int) ([]Contribution, error) {
-			return c.recentContributions(data.Username, n)
-		},
-		"humanize": humanize,
-	}
+	funcs := template.FuncMap{"humanize": humanize}
 	tpl, err := template.New("readme").Funcs(funcs).Parse(string(tplBytes))
 	if err != nil {
 		return fmt.Errorf("parse template: %w", err)

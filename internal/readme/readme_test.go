@@ -1,6 +1,10 @@
 package readme
 
 import (
+	"context"
+	"fmt"
+	"net/http"
+	"net/http/httptest"
 	"os"
 	"path/filepath"
 	"strings"
@@ -59,6 +63,156 @@ func TestRender(t *testing.T) {
 	}
 }
 
+func TestRenderGeneratedTemplate(t *testing.T) {
+	outPath := filepath.Join(t.TempDir(), "README.md")
+	templatePath := filepath.Join("..", "..", "templates", "README.md.tpl")
+	data := &Data{
+		Username:           "alice",
+		RecentCreatedRepos: []Repo{{Name: "created", URL: "https://github.com/alice/created", Description: "created repo"}},
+		RecentContributions: []Contribution{{
+			Repo:       Repo{Name: "alice/work", URL: "https://github.com/alice/work", Description: "work repo"},
+			OccurredAt: time.Now().Add(-time.Hour),
+		}},
+		RecentStarredRepos: []Repo{{Name: "owner/starred", URL: "https://github.com/owner/starred", Description: "starred repo"}},
+	}
+
+	if err := Render(templatePath, outPath, data); err != nil {
+		t.Fatalf("Render: %v", err)
+	}
+	got, err := os.ReadFile(outPath)
+	if err != nil {
+		t.Fatal(err)
+	}
+	readme := string(got)
+	for _, want := range []string{
+		"#### 👨💻 Repositories I created recently",
+		"[created](https://github.com/alice/created)",
+		"#### ⛏️ What I've been working on",
+		"[alice/work](https://github.com/alice/work)",
+		"#### ⭐ Recently starred repositories",
+		"[owner/starred](https://github.com/owner/starred)",
+	} {
+		if !strings.Contains(readme, want) {
+			t.Errorf("generated README is missing %q", want)
+		}
+	}
+	if !strings.HasSuffix(strings.TrimSpace(readme), "- [owner/starred](https://github.com/owner/starred) - starred repo") {
+		t.Error("starred repositories section should be the final README section")
+	}
+}
+
+func TestFetchPopulatesSectionsAndExcludesStarredRepos(t *testing.T) {
+	client := newTestClient(t, http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+		switch r.URL.Path {
+		case "/users/alice/starred":
+			if r.URL.Query().Get("sort") != "created" || r.URL.Query().Get("direction") != "desc" || r.URL.Query().Get("per_page") != "100" {
+				http.Error(w, "unexpected starred query", http.StatusBadRequest)
+				return
+			}
+			if r.URL.Query().Get("page") == "2" {
+				fmt.Fprint(w, `[{"starred_at":"2026-01-01T00:00:00Z","repo":{"full_name":"owner/older-star","html_url":"https://github.com/owner/older-star","description":"older"}}]`)
+				return
+			}
+			w.Header().Set("Link", `<https://api.github.com/users/alice/starred?sort=created&direction=desc&per_page=100&page=2>; rel="next"`)
+			fmt.Fprint(w, `[{"starred_at":"2026-07-02T00:00:00Z","repo":{"full_name":"owner/new-star","html_url":"https://github.com/owner/new-star","description":"new"}}]`)
+		case "/users/alice/repos":
+			if r.URL.Query().Get("type") != "public" || r.URL.Query().Get("sort") != "created" {
+				http.Error(w, "unexpected repos query", http.StatusBadRequest)
+				return
+			}
+			fmt.Fprint(w, `[{"name":"new-star","full_name":"owner/new-star","html_url":"https://github.com/owner/new-star"},{"name":"created","full_name":"alice/created","html_url":"https://github.com/alice/created","description":"created"}]`)
+		case "/users/alice/events":
+			fmt.Fprint(w, `[{"type":"PushEvent","repo":{"name":"owner/older-star","html_url":"https://github.com/owner/older-star"},"created_at":"2026-07-03T00:00:00Z"},{"type":"WatchEvent","repo":{"name":"owner/watch-event","html_url":"https://github.com/owner/watch-event"},"created_at":"2026-07-02T00:00:00Z"},{"type":"PushEvent","repo":{"name":"alice/work","html_url":"https://github.com/alice/work","description":"work"},"created_at":"2026-07-01T00:00:00Z"}]`)
+		default:
+			http.NotFound(w, r)
+		}
+	}))
+
+	data, err := client.Fetch(context.Background(), "alice")
+	if err != nil {
+		t.Fatalf("Fetch: %v", err)
+	}
+	if got, want := repoNames(data.RecentStarredRepos), []string{"owner/new-star", "owner/older-star"}; !sameStrings(got, want) {
+		t.Errorf("RecentStarredRepos = %v, want %v", got, want)
+	}
+	if got, want := repoNames(data.RecentCreatedRepos), []string{"created"}; !sameStrings(got, want) {
+		t.Errorf("RecentCreatedRepos = %v, want %v", got, want)
+	}
+	if got, want := names(data.RecentContributions), []string{"alice/work"}; !sameStrings(got, want) {
+		t.Errorf("RecentContributions = %v, want %v", got, want)
+	}
+}
+
+func TestFetchReturnsGitHubErrors(t *testing.T) {
+	client := newTestClient(t, http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+		http.Error(w, "GitHub unavailable", http.StatusServiceUnavailable)
+	}))
+
+	_, err := client.Fetch(context.Background(), "alice")
+	if err == nil || !strings.Contains(err.Error(), "list starred repos") {
+		t.Fatalf("Fetch error = %v, want starred-repos error", err)
+	}
+}
+
+func TestNewClient(t *testing.T) {
+	if client := NewClient(context.Background(), ""); client == nil || client.gh == nil {
+		t.Fatal("NewClient returned an uninitialized client")
+	}
+	if client := NewClient(context.Background(), "test-token"); client == nil || client.gh == nil {
+		t.Fatal("NewClient with token returned an uninitialized client")
+	}
+}
+
+func TestMax(t *testing.T) {
+	if got := max(2, 5); got != 5 {
+		t.Errorf("max(2, 5) = %d, want 5", got)
+	}
+	if got := max(5, 2); got != 5 {
+		t.Errorf("max(5, 2) = %d, want 5", got)
+	}
+}
+
+func newTestClient(t *testing.T, handler http.Handler) *Client {
+	t.Helper()
+	gh, err := github.NewClient(github.WithTransport(roundTripFunc(func(req *http.Request) (*http.Response, error) {
+		recorder := httptest.NewRecorder()
+		handler.ServeHTTP(recorder, req)
+		response := recorder.Result()
+		response.Request = req
+		return response, nil
+	})))
+	if err != nil {
+		t.Fatal(err)
+	}
+	return &Client{gh: gh}
+}
+
+type roundTripFunc func(*http.Request) (*http.Response, error)
+
+func (f roundTripFunc) RoundTrip(req *http.Request) (*http.Response, error) {
+	return f(req)
+}
+
+func repoNames(repos []Repo) []string {
+	names := make([]string, len(repos))
+	for i, repo := range repos {
+		names[i] = repo.Name
+	}
+	return names
+}
+
+func sameStrings(got, want []string) bool {
+	if len(got) != len(want) {
+		return false
+	}
+	for i := range got {
+		if got[i] != want[i] {
+			return false
+		}
+	}
+	return true
+}
+
 // strPtr is a small helper to take the address of a string literal.
 func strPtr(s string) *string { return &s }
 
@@ -92,6 +246,20 @@ func TestFilterAndDedupeEvents_ExcludesWatchEvents(t *testing.T) {
 		if c.Repo.Name == "stupside/castor" || c.Repo.Name == "perplexityai/bumblebee" {
 			t.Errorf("starred repo %q should be excluded, got %+v", c.Repo.Name, c)
 		}
+	}
+}
+
+func TestFilterAndDedupeEventsExcluding_ExcludesStarredRepos(t *testing.T) {
+	now := time.Now()
+	events := []*github.Event{
+		newEvent("PushEvent", "toozej/toozej", "https://github.com/toozej/toozej", "profile", now),
+		newEvent("PushEvent", "stupside/castor", "https://github.com/stupside/castor", "starred", now.Add(-time.Hour)),
+	}
+
+	got := filterAndDedupeEventsExcluding(events, map[string]struct{}{"stupside/castor": {}})
+
+	if len(got) != 1 || got[0].Repo.Name != "toozej/toozej" {
+		t.Errorf("starred repository was not excluded: %+v", names(got))
 	}
 }
 

@@ -12,7 +12,7 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [toozej/toozej](https://github.com/toozej/toozej) -  (1 day ago)
+- [toozej/toozej](https://github.com/toozej/toozej) -  (just now)
 - [toozej/tools](https://github.com/toozej/tools) -  (1 day ago)
 - [toozej/monogo](https://github.com/toozej/monogo) -  (1 day ago)
 - [toozej/travels](https://github.com/toozej/travels) -  (2 days ago)

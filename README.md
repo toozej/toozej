@@ -12,16 +12,16 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [toozej/tools](https://github.com/toozej/tools) -  (3 minutes ago)
-- [toozej/pebble-darkroom](https://github.com/toozej/pebble-darkroom) -  (1 day ago)
-- [toozej/travels](https://github.com/toozej/travels) -  (1 day ago)
-- [toozej/homebrew-tap](https://github.com/toozej/homebrew-tap) -  (2 days ago)
-- [toozej/EXIFizer](https://github.com/toozej/EXIFizer) -  (2 days ago)
-- [toozej/python-starter](https://github.com/toozej/python-starter) -  (2 days ago)
-- [toozej/toozej](https://github.com/toozej/toozej) -  (2 days ago)
-- [toozej/monogo](https://github.com/toozej/monogo) -  (2 days ago)
-- [toozej/tabi-transit](https://github.com/toozej/tabi-transit) -  (6 days ago)
-- [toozej/docker-goatcounter](https://github.com/toozej/docker-goatcounter) -  (7 days ago)
+- [toozej/tools](https://github.com/toozej/tools) -  (23 hours ago)
+- [toozej/pebble-darkroom](https://github.com/toozej/pebble-darkroom) -  (2 days ago)
+- [toozej/travels](https://github.com/toozej/travels) -  (2 days ago)
+- [toozej/homebrew-tap](https://github.com/toozej/homebrew-tap) -  (3 days ago)
+- [toozej/EXIFizer](https://github.com/toozej/EXIFizer) -  (3 days ago)
+- [toozej/python-starter](https://github.com/toozej/python-starter) -  (3 days ago)
+- [toozej/toozej](https://github.com/toozej/toozej) -  (3 days ago)
+- [toozej/monogo](https://github.com/toozej/monogo) -  (3 days ago)
+- [toozej/tabi-transit](https://github.com/toozej/tabi-transit) -  (7 days ago)
+- [toozej/docker-goatcounter](https://github.com/toozej/docker-goatcounter) -  (8 days ago)
 
 #### ⭐ Recently starred repositories
 

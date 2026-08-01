@@ -12,16 +12,16 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [toozej/travels](https://github.com/toozej/travels) -  (4 minutes ago)
-- [toozej/homebrew-tap](https://github.com/toozej/homebrew-tap) -  (4 hours ago)
-- [toozej/monogo](https://github.com/toozej/monogo) -  (5 hours ago)
-- [toozej/genARTrated](https://github.com/toozej/genARTrated) -  (6 hours ago)
-- [toozej/tools](https://github.com/toozej/tools) -  (7 hours ago)
-- [toozej/pebble-darkroom](https://github.com/toozej/pebble-darkroom) -  (3 days ago)
-- [toozej/EXIFizer](https://github.com/toozej/EXIFizer) -  (4 days ago)
-- [toozej/python-starter](https://github.com/toozej/python-starter) -  (4 days ago)
-- [toozej/toozej](https://github.com/toozej/toozej) -  (4 days ago)
-- [toozej/tabi-transit](https://github.com/toozej/tabi-transit) -  (8 days ago)
+- [toozej/tools](https://github.com/toozej/tools) -  (4 hours ago)
+- [toozej/monogo](https://github.com/toozej/monogo) -  (12 hours ago)
+- [toozej/sn2ssg-py](https://github.com/toozej/sn2ssg-py) -  (15 hours ago)
+- [toozej/travels](https://github.com/toozej/travels) -  (1 day ago)
+- [toozej/homebrew-tap](https://github.com/toozej/homebrew-tap) -  (1 day ago)
+- [toozej/genARTrated](https://github.com/toozej/genARTrated) -  (1 day ago)
+- [toozej/pebble-darkroom](https://github.com/toozej/pebble-darkroom) -  (4 days ago)
+- [toozej/EXIFizer](https://github.com/toozej/EXIFizer) -  (5 days ago)
+- [toozej/python-starter](https://github.com/toozej/python-starter) -  (5 days ago)
+- [toozej/toozej](https://github.com/toozej/toozej) -  (5 days ago)
 
 #### ⭐ Recently starred repositories
 

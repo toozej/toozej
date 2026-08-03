@@ -4,24 +4,24 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### 👨💻 Repositories I created recently
 
+- [hugo-mod-misc](https://github.com/toozej/hugo-mod-misc) - Some useful Hugo Modules.
 - [tabi-transit](https://github.com/toozej/tabi-transit) - 
 - [monogo](https://github.com/toozej/monogo) - Go mono-repo
 - [gotts-it](https://github.com/toozej/gotts-it) - Go-based Text-To-Speech Tool
 - [lego-stego](https://github.com/toozej/lego-stego) - Go-based CLI tool for Steganography
-- [go-sort-out-gh-actions](https://github.com/toozej/go-sort-out-gh-actions) - Find archived, outdated, EOL runtime GitHub Actions in use in GHA Workflows with optional notifications, auto-updates, pinning, and GH Issue creation
 
 #### ⛏️ What I've been working on
 
-- [toozej/homebrew-tap](https://github.com/toozej/homebrew-tap) -  (2 hours ago)
-- [toozej/vncaa](https://github.com/toozej/vncaa) -  (5 hours ago)
-- [toozej/python-starter](https://github.com/toozej/python-starter) -  (5 hours ago)
-- [toozej/monogo](https://github.com/toozej/monogo) -  (6 hours ago)
-- [toozej/tools](https://github.com/toozej/tools) -  (1 day ago)
-- [toozej/sn2ssg-py](https://github.com/toozej/sn2ssg-py) -  (1 day ago)
-- [toozej/travels](https://github.com/toozej/travels) -  (2 days ago)
-- [toozej/genARTrated](https://github.com/toozej/genARTrated) -  (2 days ago)
-- [toozej/pebble-darkroom](https://github.com/toozej/pebble-darkroom) -  (5 days ago)
-- [toozej/EXIFizer](https://github.com/toozej/EXIFizer) -  (6 days ago)
+- [toozej/hugo-mod-misc](https://github.com/toozej/hugo-mod-misc) -  (7 hours ago)
+- [toozej/galleriesdeluxe](https://github.com/toozej/galleriesdeluxe) -  (9 hours ago)
+- [bep/hugo-mod-misc](https://github.com/bep/hugo-mod-misc) -  (10 hours ago)
+- [toozej/homebrew-tap](https://github.com/toozej/homebrew-tap) -  (1 day ago)
+- [toozej/vncaa](https://github.com/toozej/vncaa) -  (1 day ago)
+- [toozej/python-starter](https://github.com/toozej/python-starter) -  (1 day ago)
+- [toozej/monogo](https://github.com/toozej/monogo) -  (1 day ago)
+- [toozej/tools](https://github.com/toozej/tools) -  (2 days ago)
+- [toozej/sn2ssg-py](https://github.com/toozej/sn2ssg-py) -  (2 days ago)
+- [toozej/travels](https://github.com/toozej/travels) -  (3 days ago)
 
 #### ⭐ Recently starred repositories
 

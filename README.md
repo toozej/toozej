@@ -12,16 +12,16 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [toozej/monogo](https://github.com/toozej/monogo) -  (7 hours ago)
-- [toozej/genARTrated](https://github.com/toozej/genARTrated) -  (1 day ago)
-- [toozej/homebrew-tap](https://github.com/toozej/homebrew-tap) -  (1 day ago)
-- [toozej/sn2ssg-py](https://github.com/toozej/sn2ssg-py) -  (1 day ago)
-- [toozej/python-starter](https://github.com/toozej/python-starter) -  (1 day ago)
-- [toozej/hugo-mod-misc](https://github.com/toozej/hugo-mod-misc) -  (2 days ago)
-- [toozej/galleriesdeluxe](https://github.com/toozej/galleriesdeluxe) -  (2 days ago)
-- [bep/hugo-mod-misc](https://github.com/bep/hugo-mod-misc) -  (2 days ago)
-- [toozej/vncaa](https://github.com/toozej/vncaa) -  (3 days ago)
-- [toozej/tools](https://github.com/toozej/tools) -  (4 days ago)
+- [toozej/monogo](https://github.com/toozej/monogo) -  (1 hour ago)
+- [toozej/homebrew-tap](https://github.com/toozej/homebrew-tap) -  (20 hours ago)
+- [toozej/genARTrated](https://github.com/toozej/genARTrated) -  (2 days ago)
+- [toozej/sn2ssg-py](https://github.com/toozej/sn2ssg-py) -  (2 days ago)
+- [toozej/python-starter](https://github.com/toozej/python-starter) -  (2 days ago)
+- [toozej/hugo-mod-misc](https://github.com/toozej/hugo-mod-misc) -  (3 days ago)
+- [toozej/galleriesdeluxe](https://github.com/toozej/galleriesdeluxe) -  (3 days ago)
+- [bep/hugo-mod-misc](https://github.com/bep/hugo-mod-misc) -  (3 days ago)
+- [toozej/vncaa](https://github.com/toozej/vncaa) -  (4 days ago)
+- [toozej/tools](https://github.com/toozej/tools) -  (5 days ago)
 
 #### ⭐ Recently starred repositories
 

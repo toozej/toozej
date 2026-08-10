@@ -12,16 +12,16 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [toozej/python-starter](https://github.com/toozej/python-starter) -  (5 hours ago)
-- [toozej/EXIFizer](https://github.com/toozej/EXIFizer) -  (10 hours ago)
-- [toozej/tabi-transit](https://github.com/toozej/tabi-transit) -  (1 day ago)
-- [toozej/tools](https://github.com/toozej/tools) -  (1 day ago)
-- [toozej/homebrew-tap](https://github.com/toozej/homebrew-tap) -  (1 day ago)
-- [toozej/monogo](https://github.com/toozej/monogo) -  (1 day ago)
-- [toozej/genARTrated](https://github.com/toozej/genARTrated) -  (5 days ago)
-- [toozej/sn2ssg-py](https://github.com/toozej/sn2ssg-py) -  (5 days ago)
-- [toozej/hugo-mod-misc](https://github.com/toozej/hugo-mod-misc) -  (6 days ago)
-- [toozej/galleriesdeluxe](https://github.com/toozej/galleriesdeluxe) -  (6 days ago)
+- [toozej/tabi-transit](https://github.com/toozej/tabi-transit) -  (2 hours ago)
+- [toozej/python-starter](https://github.com/toozej/python-starter) -  (1 day ago)
+- [toozej/EXIFizer](https://github.com/toozej/EXIFizer) -  (1 day ago)
+- [toozej/tools](https://github.com/toozej/tools) -  (2 days ago)
+- [toozej/homebrew-tap](https://github.com/toozej/homebrew-tap) -  (2 days ago)
+- [toozej/monogo](https://github.com/toozej/monogo) -  (2 days ago)
+- [toozej/genARTrated](https://github.com/toozej/genARTrated) -  (6 days ago)
+- [toozej/sn2ssg-py](https://github.com/toozej/sn2ssg-py) -  (6 days ago)
+- [toozej/hugo-mod-misc](https://github.com/toozej/hugo-mod-misc) -  (7 days ago)
+- [toozej/galleriesdeluxe](https://github.com/toozej/galleriesdeluxe) -  (7 days ago)
 
 #### ⭐ Recently starred repositories
 

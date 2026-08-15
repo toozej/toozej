@@ -12,21 +12,21 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [toozej/travels](https://github.com/toozej/travels) -  (23 hours ago)
-- [toozej/python-starter](https://github.com/toozej/python-starter) -  (2 days ago)
-- [toozej/tabi-transit](https://github.com/toozej/tabi-transit) -  (2 days ago)
-- [toozej/EXIFizer](https://github.com/toozej/EXIFizer) -  (5 days ago)
-- [toozej/tools](https://github.com/toozej/tools) -  (6 days ago)
-- [toozej/homebrew-tap](https://github.com/toozej/homebrew-tap) -  (6 days ago)
-- [toozej/monogo](https://github.com/toozej/monogo) -  (6 days ago)
-- [toozej/genARTrated](https://github.com/toozej/genARTrated) -  (10 days ago)
-- [toozej/sn2ssg-py](https://github.com/toozej/sn2ssg-py) -  (10 days ago)
-- [toozej/hugo-mod-misc](https://github.com/toozej/hugo-mod-misc) -  (11 days ago)
+- [toozej/tools](https://github.com/toozej/tools) -  (5 hours ago)
+- [toozej/monogo](https://github.com/toozej/monogo) -  (9 hours ago)
+- [toozej/tabi-transit](https://github.com/toozej/tabi-transit) -  (10 hours ago)
+- [toozej/travels](https://github.com/toozej/travels) -  (1 day ago)
+- [toozej/python-starter](https://github.com/toozej/python-starter) -  (3 days ago)
+- [toozej/EXIFizer](https://github.com/toozej/EXIFizer) -  (6 days ago)
+- [toozej/homebrew-tap](https://github.com/toozej/homebrew-tap) -  (7 days ago)
+- [toozej/genARTrated](https://github.com/toozej/genARTrated) -  (11 days ago)
+- [toozej/sn2ssg-py](https://github.com/toozej/sn2ssg-py) -  (11 days ago)
+- [toozej/hugo-mod-misc](https://github.com/toozej/hugo-mod-misc) -  (12 days ago)
 
 #### ⭐ Recently starred repositories
 
+- [NVIDIA-NeMo/Switchyard](https://github.com/NVIDIA-NeMo/Switchyard) - Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.
 - [vitali87/code-graph-rag](https://github.com/vitali87/code-graph-rag) - The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs
 - [0xnyn/airship](https://github.com/0xnyn/airship) - Figma like visual editor built for Claude Code, Codex and OpenCode
 - [othermod/PSPi-Version-6](https://github.com/othermod/PSPi-Version-6) - 
 - [stupside/castor](https://github.com/stupside/castor) - Point it at any web page and it finds the video, extracts the stream, transcodes it and casts in real time to your TV. It even burns subtitles….
-- [perplexityai/bumblebee](https://github.com/perplexityai/bumblebee) - Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises.

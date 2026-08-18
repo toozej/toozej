@@ -12,20 +12,19 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [toozej/python-starter](https://github.com/toozej/python-starter) -  (7 hours ago)
-- [toozej/monogo](https://github.com/toozej/monogo) -  (1 day ago)
-- [toozej/EXIFizer](https://github.com/toozej/EXIFizer) -  (1 day ago)
-- [toozej/tabi-transit](https://github.com/toozej/tabi-transit) -  (1 day ago)
-- [toozej/tools](https://github.com/toozej/tools) -  (2 days ago)
-- [toozej/travels](https://github.com/toozej/travels) -  (3 days ago)
-- [toozej/homebrew-tap](https://github.com/toozej/homebrew-tap) -  (9 days ago)
-- [toozej/genARTrated](https://github.com/toozej/genARTrated) -  (13 days ago)
-- [toozej/sn2ssg-py](https://github.com/toozej/sn2ssg-py) -  (13 days ago)
+- [toozej/travels](https://github.com/toozej/travels) -  (4 hours ago)
+- [toozej/python-starter](https://github.com/toozej/python-starter) -  (4 hours ago)
+- [toozej/monogo](https://github.com/toozej/monogo) -  (2 days ago)
+- [toozej/EXIFizer](https://github.com/toozej/EXIFizer) -  (2 days ago)
+- [toozej/tabi-transit](https://github.com/toozej/tabi-transit) -  (2 days ago)
+- [toozej/tools](https://github.com/toozej/tools) -  (3 days ago)
+- [toozej/homebrew-tap](https://github.com/toozej/homebrew-tap) -  (10 days ago)
+- [toozej/genARTrated](https://github.com/toozej/genARTrated) -  (14 days ago)
 
 #### ⭐ Recently starred repositories
 
+- [semantica-agi/semantica](https://github.com/semantica-agi/semantica) - Graph-Native Infrastructure for Context and Accountable AI Systems
 - [apple/coreai-models](https://github.com/apple/coreai-models) - Model export recipes, Python primitives, and Swift runtime utilities for on-device AI
 - [NVIDIA-NeMo/Switchyard](https://github.com/NVIDIA-NeMo/Switchyard) - Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.
 - [vitali87/code-graph-rag](https://github.com/vitali87/code-graph-rag) - The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs
 - [0xnyn/airship](https://github.com/0xnyn/airship) - Figma like visual editor built for Claude Code, Codex and OpenCode
-- [othermod/PSPi-Version-6](https://github.com/othermod/PSPi-Version-6) - 

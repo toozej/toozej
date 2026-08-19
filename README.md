@@ -12,19 +12,18 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [toozej/travels](https://github.com/toozej/travels) -  (4 hours ago)
-- [toozej/python-starter](https://github.com/toozej/python-starter) -  (4 hours ago)
-- [toozej/monogo](https://github.com/toozej/monogo) -  (2 days ago)
-- [toozej/EXIFizer](https://github.com/toozej/EXIFizer) -  (2 days ago)
-- [toozej/tabi-transit](https://github.com/toozej/tabi-transit) -  (2 days ago)
-- [toozej/tools](https://github.com/toozej/tools) -  (3 days ago)
-- [toozej/homebrew-tap](https://github.com/toozej/homebrew-tap) -  (10 days ago)
-- [toozej/genARTrated](https://github.com/toozej/genARTrated) -  (14 days ago)
+- [toozej/tabi-transit](https://github.com/toozej/tabi-transit) -  (10 hours ago)
+- [toozej/monogo](https://github.com/toozej/monogo) -  (10 hours ago)
+- [toozej/python-starter](https://github.com/toozej/python-starter) -  (10 hours ago)
+- [toozej/EXIFizer](https://github.com/toozej/EXIFizer) -  (10 hours ago)
+- [toozej/travels](https://github.com/toozej/travels) -  (1 day ago)
+- [toozej/tools](https://github.com/toozej/tools) -  (4 days ago)
+- [toozej/homebrew-tap](https://github.com/toozej/homebrew-tap) -  (11 days ago)
 
 #### ⭐ Recently starred repositories
 
+- [mvanhorn/cli-printing-press](https://github.com/mvanhorn/cli-printing-press) - Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound insight commands.
+- [chrissotraidis/maskpad](https://github.com/chrissotraidis/maskpad) - The Legend of Zelda: Majora&#39;s Mask via 2 Ship 2 Harkinian, rebuilt for iPhone and iPad.
+- [hasenj/go-shirei](https://github.com/hasenj/go-shirei) - Go based GUI framework: practical, immediate mode, flexbox model
+- [cabeen/zen-mode](https://github.com/cabeen/zen-mode) - 
 - [semantica-agi/semantica](https://github.com/semantica-agi/semantica) - Graph-Native Infrastructure for Context and Accountable AI Systems
-- [apple/coreai-models](https://github.com/apple/coreai-models) - Model export recipes, Python primitives, and Swift runtime utilities for on-device AI
-- [NVIDIA-NeMo/Switchyard](https://github.com/NVIDIA-NeMo/Switchyard) - Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.
-- [vitali87/code-graph-rag](https://github.com/vitali87/code-graph-rag) - The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs
-- [0xnyn/airship](https://github.com/0xnyn/airship) - Figma like visual editor built for Claude Code, Codex and OpenCode

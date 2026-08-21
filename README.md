@@ -12,13 +12,13 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [toozej/tabi-transit](https://github.com/toozej/tabi-transit) -  (1 day ago)
-- [toozej/monogo](https://github.com/toozej/monogo) -  (1 day ago)
-- [toozej/python-starter](https://github.com/toozej/python-starter) -  (1 day ago)
-- [toozej/EXIFizer](https://github.com/toozej/EXIFizer) -  (1 day ago)
-- [toozej/travels](https://github.com/toozej/travels) -  (2 days ago)
-- [toozej/tools](https://github.com/toozej/tools) -  (5 days ago)
-- [toozej/homebrew-tap](https://github.com/toozej/homebrew-tap) -  (12 days ago)
+- [toozej/tools](https://github.com/toozej/tools) -  (20 hours ago)
+- [toozej/tabi-transit](https://github.com/toozej/tabi-transit) -  (2 days ago)
+- [toozej/monogo](https://github.com/toozej/monogo) -  (2 days ago)
+- [toozej/python-starter](https://github.com/toozej/python-starter) -  (2 days ago)
+- [toozej/EXIFizer](https://github.com/toozej/EXIFizer) -  (2 days ago)
+- [toozej/travels](https://github.com/toozej/travels) -  (3 days ago)
+- [toozej/homebrew-tap](https://github.com/toozej/homebrew-tap) -  (13 days ago)
 
 #### ⭐ Recently starred repositories
 

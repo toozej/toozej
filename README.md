@@ -12,14 +12,14 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [toozej/tools](https://github.com/toozej/tools) -  (1 day ago)
-- [toozej/links](https://github.com/toozej/links) -  (1 day ago)
-- [toozej/pebble-darkroom](https://github.com/toozej/pebble-darkroom) -  (2 days ago)
-- [toozej/travels](https://github.com/toozej/travels) -  (3 days ago)
-- [toozej/monogo](https://github.com/toozej/monogo) -  (3 days ago)
-- [toozej/python-starter](https://github.com/toozej/python-starter) -  (4 days ago)
-- [toozej/EXIFizer](https://github.com/toozej/EXIFizer) -  (4 days ago)
-- [toozej/tabi-transit](https://github.com/toozej/tabi-transit) -  (5 days ago)
+- [toozej/monogo](https://github.com/toozej/monogo) -  (18 hours ago)
+- [toozej/tools](https://github.com/toozej/tools) -  (2 days ago)
+- [toozej/links](https://github.com/toozej/links) -  (2 days ago)
+- [toozej/pebble-darkroom](https://github.com/toozej/pebble-darkroom) -  (3 days ago)
+- [toozej/travels](https://github.com/toozej/travels) -  (4 days ago)
+- [toozej/python-starter](https://github.com/toozej/python-starter) -  (5 days ago)
+- [toozej/EXIFizer](https://github.com/toozej/EXIFizer) -  (5 days ago)
+- [toozej/tabi-transit](https://github.com/toozej/tabi-transit) -  (6 days ago)
 
 #### ⭐ Recently starred repositories
 

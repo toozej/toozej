@@ -4,22 +4,24 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### 👨💻 Repositories I created recently
 
+- [RapidRAW-DngLab](https://github.com/toozej/RapidRAW-DngLab) - Camera RAW to DNG file format converter
 - [links](https://github.com/toozej/links) - 
 - [hugo-mod-misc](https://github.com/toozej/hugo-mod-misc) - Some useful Hugo Modules.
 - [tabi-transit](https://github.com/toozej/tabi-transit) - 
 - [monogo](https://github.com/toozej/monogo) - Go mono-repo
-- [gotts-it](https://github.com/toozej/gotts-it) - Go-based Text-To-Speech Tool
 
 #### ⛏️ What I've been working on
 
-- [toozej/monogo](https://github.com/toozej/monogo) -  (18 hours ago)
-- [toozej/tools](https://github.com/toozej/tools) -  (2 days ago)
-- [toozej/links](https://github.com/toozej/links) -  (2 days ago)
-- [toozej/pebble-darkroom](https://github.com/toozej/pebble-darkroom) -  (3 days ago)
-- [toozej/travels](https://github.com/toozej/travels) -  (4 days ago)
-- [toozej/python-starter](https://github.com/toozej/python-starter) -  (5 days ago)
-- [toozej/EXIFizer](https://github.com/toozej/EXIFizer) -  (5 days ago)
-- [toozej/tabi-transit](https://github.com/toozej/tabi-transit) -  (6 days ago)
+- [CyberTimon/RapidRAW](https://github.com/CyberTimon/RapidRAW) -  (12 hours ago)
+- [CyberTimon/RapidRAW-DngLab](https://github.com/CyberTimon/RapidRAW-DngLab) -  (12 hours ago)
+- [toozej/monogo](https://github.com/toozej/monogo) -  (1 day ago)
+- [toozej/tools](https://github.com/toozej/tools) -  (3 days ago)
+- [toozej/links](https://github.com/toozej/links) -  (3 days ago)
+- [toozej/pebble-darkroom](https://github.com/toozej/pebble-darkroom) -  (4 days ago)
+- [toozej/travels](https://github.com/toozej/travels) -  (5 days ago)
+- [toozej/python-starter](https://github.com/toozej/python-starter) -  (6 days ago)
+- [toozej/EXIFizer](https://github.com/toozej/EXIFizer) -  (6 days ago)
+- [toozej/tabi-transit](https://github.com/toozej/tabi-transit) -  (7 days ago)
 
 #### ⭐ Recently starred repositories
 

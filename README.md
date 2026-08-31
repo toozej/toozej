@@ -5,23 +5,23 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 #### 👨💻 Repositories I created recently
 
 - [RapidRAW-DngLab](https://github.com/toozej/RapidRAW-DngLab) - Camera RAW to DNG file format converter
-- [links](https://github.com/toozej/links) - 
+- [links](https://github.com/toozej/links) - A Hugo link page using the LucentLink theme deployed to GitHub Pages by GitHub Actions.
 - [hugo-mod-misc](https://github.com/toozej/hugo-mod-misc) - Some useful Hugo Modules.
-- [tabi-transit](https://github.com/toozej/tabi-transit) - 
+- [tabi-transit](https://github.com/toozej/tabi-transit) - Tabi is a Portland-area transit application for iOS and Android. It uses an Expo React Native client and Go services backed by PostgreSQL/PostGIS.
 - [monogo](https://github.com/toozej/monogo) - Go mono-repo
 
 #### ⛏️ What I've been working on
 
-- [CyberTimon/RapidRAW](https://github.com/CyberTimon/RapidRAW) -  (1 day ago)
-- [CyberTimon/RapidRAW-DngLab](https://github.com/CyberTimon/RapidRAW-DngLab) -  (1 day ago)
-- [toozej/monogo](https://github.com/toozej/monogo) -  (2 days ago)
-- [toozej/tools](https://github.com/toozej/tools) -  (4 days ago)
-- [toozej/links](https://github.com/toozej/links) -  (4 days ago)
-- [toozej/pebble-darkroom](https://github.com/toozej/pebble-darkroom) -  (5 days ago)
-- [toozej/travels](https://github.com/toozej/travels) -  (6 days ago)
-- [toozej/python-starter](https://github.com/toozej/python-starter) -  (7 days ago)
-- [toozej/EXIFizer](https://github.com/toozej/EXIFizer) -  (7 days ago)
-- [toozej/tabi-transit](https://github.com/toozej/tabi-transit) -  (8 days ago)
+- [CyberTimon/RapidRAW-DngLab](https://github.com/CyberTimon/RapidRAW-DngLab) -  (9 hours ago)
+- [CyberTimon/RapidRAW](https://github.com/CyberTimon/RapidRAW) -  (9 hours ago)
+- [toozej/RapidRAW-DngLab](https://github.com/toozej/RapidRAW-DngLab) -  (9 hours ago)
+- [toozej/python-starter](https://github.com/toozej/python-starter) -  (1 day ago)
+- [toozej/EXIFizer](https://github.com/toozej/EXIFizer) -  (1 day ago)
+- [toozej/tools](https://github.com/toozej/tools) -  (2 days ago)
+- [toozej/monogo](https://github.com/toozej/monogo) -  (3 days ago)
+- [toozej/links](https://github.com/toozej/links) -  (5 days ago)
+- [toozej/pebble-darkroom](https://github.com/toozej/pebble-darkroom) -  (6 days ago)
+- [toozej/travels](https://github.com/toozej/travels) -  (7 days ago)
 
 #### ⭐ Recently starred repositories
 

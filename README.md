@@ -12,16 +12,16 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [toozej/links](https://github.com/toozej/links) -  (9 hours ago)
-- [toozej/dotfiles](https://github.com/toozej/dotfiles) -  (1 day ago)
-- [CyberTimon/RapidRAW-DngLab](https://github.com/CyberTimon/RapidRAW-DngLab) -  (2 days ago)
-- [CyberTimon/RapidRAW](https://github.com/CyberTimon/RapidRAW) -  (2 days ago)
-- [toozej/RapidRAW-DngLab](https://github.com/toozej/RapidRAW-DngLab) -  (2 days ago)
-- [toozej/python-starter](https://github.com/toozej/python-starter) -  (3 days ago)
-- [toozej/EXIFizer](https://github.com/toozej/EXIFizer) -  (3 days ago)
-- [toozej/tools](https://github.com/toozej/tools) -  (4 days ago)
-- [toozej/monogo](https://github.com/toozej/monogo) -  (5 days ago)
-- [toozej/pebble-darkroom](https://github.com/toozej/pebble-darkroom) -  (8 days ago)
+- [toozej/links](https://github.com/toozej/links) -  (1 day ago)
+- [toozej/dotfiles](https://github.com/toozej/dotfiles) -  (2 days ago)
+- [CyberTimon/RapidRAW-DngLab](https://github.com/CyberTimon/RapidRAW-DngLab) -  (3 days ago)
+- [CyberTimon/RapidRAW](https://github.com/CyberTimon/RapidRAW) -  (3 days ago)
+- [toozej/RapidRAW-DngLab](https://github.com/toozej/RapidRAW-DngLab) -  (3 days ago)
+- [toozej/python-starter](https://github.com/toozej/python-starter) -  (4 days ago)
+- [toozej/EXIFizer](https://github.com/toozej/EXIFizer) -  (4 days ago)
+- [toozej/tools](https://github.com/toozej/tools) -  (5 days ago)
+- [toozej/monogo](https://github.com/toozej/monogo) -  (6 days ago)
+- [toozej/pebble-darkroom](https://github.com/toozej/pebble-darkroom) -  (9 days ago)
 
 #### ⭐ Recently starred repositories
 

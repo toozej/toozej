@@ -12,21 +12,21 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [toozej/monogo](https://github.com/toozej/monogo) -  (1 hour ago)
-- [toozej/tabi-transit](https://github.com/toozej/tabi-transit) -  (6 hours ago)
-- [toozej/tools](https://github.com/toozej/tools) -  (9 hours ago)
-- [toozej/dotfiles](https://github.com/toozej/dotfiles) -  (1 day ago)
-- [toozej/EXIFizer](https://github.com/toozej/EXIFizer) -  (1 day ago)
-- [toozej/python-starter](https://github.com/toozej/python-starter) -  (1 day ago)
-- [toozej/links](https://github.com/toozej/links) -  (7 days ago)
-- [CyberTimon/RapidRAW-DngLab](https://github.com/CyberTimon/RapidRAW-DngLab) -  (9 days ago)
-- [CyberTimon/RapidRAW](https://github.com/CyberTimon/RapidRAW) -  (9 days ago)
-- [toozej/RapidRAW-DngLab](https://github.com/toozej/RapidRAW-DngLab) -  (9 days ago)
+- [toozej/monogo](https://github.com/toozej/monogo) -  (1 day ago)
+- [toozej/tabi-transit](https://github.com/toozej/tabi-transit) -  (1 day ago)
+- [toozej/tools](https://github.com/toozej/tools) -  (1 day ago)
+- [toozej/dotfiles](https://github.com/toozej/dotfiles) -  (2 days ago)
+- [toozej/EXIFizer](https://github.com/toozej/EXIFizer) -  (2 days ago)
+- [toozej/python-starter](https://github.com/toozej/python-starter) -  (2 days ago)
+- [toozej/travels](https://github.com/toozej/travels) -  (2 days ago)
+- [toozej/links](https://github.com/toozej/links) -  (8 days ago)
+- [CyberTimon/RapidRAW-DngLab](https://github.com/CyberTimon/RapidRAW-DngLab) -  (10 days ago)
+- [CyberTimon/RapidRAW](https://github.com/CyberTimon/RapidRAW) -  (10 days ago)
 
 #### ⭐ Recently starred repositories
 
+- [caarlos0/svu](https://github.com/caarlos0/svu) - semantic version utility
 - [danyuchn/asd-ste100-skill](https://github.com/danyuchn/asd-ste100-skill) - ASD-STE100 Simplified Technical English rules, repurposed as a Claude Code skill for rewriting ambiguous agent-facing English.
 - [joel16/CMFileManager-PSP](https://github.com/joel16/CMFileManager-PSP) - A multi-purpose file manager for the PSP, heavily inspired by the CM file manager design.
 - [tomowang/hugo-theme-tailwind](https://github.com/tomowang/hugo-theme-tailwind) - Clean card Hugo theme for blog, created by using tailwindcss
 - [tobi/walgit](https://github.com/tobi/walgit) - 
-- [mvanhorn/cli-printing-press](https://github.com/mvanhorn/cli-printing-press) - Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound insight commands.

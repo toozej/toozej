@@ -12,16 +12,16 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [toozej/travels](https://github.com/toozej/travels) -  (1 day ago)
-- [toozej/python-starter](https://github.com/toozej/python-starter) -  (3 days ago)
-- [toozej/EXIFizer](https://github.com/toozej/EXIFizer) -  (3 days ago)
-- [toozej/tools](https://github.com/toozej/tools) -  (4 days ago)
-- [toozej/monogo](https://github.com/toozej/monogo) -  (4 days ago)
-- [toozej/kemo](https://github.com/toozej/kemo) -  (6 days ago)
-- [toozej/RapidRAW-DngLab](https://github.com/toozej/RapidRAW-DngLab) -  (12 days ago)
-- [toozej/links](https://github.com/toozej/links) -  (15 days ago)
-- [toozej/tabi-transit](https://github.com/toozej/tabi-transit) -  (21 days ago)
-- [toozej/dotfiles](https://github.com/toozej/dotfiles) -  (22 days ago)
+- [toozej/travels](https://github.com/toozej/travels) -  (2 days ago)
+- [toozej/python-starter](https://github.com/toozej/python-starter) -  (4 days ago)
+- [toozej/EXIFizer](https://github.com/toozej/EXIFizer) -  (4 days ago)
+- [toozej/tools](https://github.com/toozej/tools) -  (5 days ago)
+- [toozej/monogo](https://github.com/toozej/monogo) -  (5 days ago)
+- [toozej/kemo](https://github.com/toozej/kemo) -  (7 days ago)
+- [toozej/RapidRAW-DngLab](https://github.com/toozej/RapidRAW-DngLab) -  (13 days ago)
+- [toozej/links](https://github.com/toozej/links) -  (16 days ago)
+- [toozej/tabi-transit](https://github.com/toozej/tabi-transit) -  (22 days ago)
+- [toozej/dotfiles](https://github.com/toozej/dotfiles) -  (23 days ago)
 
 #### ⭐ Recently starred repositories
 

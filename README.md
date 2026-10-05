@@ -12,20 +12,20 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [toozej/python-starter](https://github.com/toozej/python-starter) -  (8 hours ago)
-- [toozej/EXIFizer](https://github.com/toozej/EXIFizer) -  (12 hours ago)
-- [toozej/tools](https://github.com/toozej/tools) -  (1 day ago)
-- [toozej/travels](https://github.com/toozej/travels) -  (1 day ago)
-- [toozej/monogo](https://github.com/toozej/monogo) -  (8 days ago)
-- [toozej/kemo](https://github.com/toozej/kemo) -  (10 days ago)
-- [toozej/RapidRAW-DngLab](https://github.com/toozej/RapidRAW-DngLab) -  (16 days ago)
-- [toozej/links](https://github.com/toozej/links) -  (19 days ago)
-- [toozej/tabi-transit](https://github.com/toozej/tabi-transit) -  (25 days ago)
-- [toozej/dotfiles](https://github.com/toozej/dotfiles) -  (26 days ago)
+- [toozej/python-starter](https://github.com/toozej/python-starter) -  (1 day ago)
+- [toozej/EXIFizer](https://github.com/toozej/EXIFizer) -  (1 day ago)
+- [toozej/tools](https://github.com/toozej/tools) -  (2 days ago)
+- [toozej/travels](https://github.com/toozej/travels) -  (2 days ago)
+- [toozej/monogo](https://github.com/toozej/monogo) -  (9 days ago)
+- [toozej/kemo](https://github.com/toozej/kemo) -  (11 days ago)
+- [toozej/RapidRAW-DngLab](https://github.com/toozej/RapidRAW-DngLab) -  (17 days ago)
+- [toozej/links](https://github.com/toozej/links) -  (20 days ago)
+- [toozej/tabi-transit](https://github.com/toozej/tabi-transit) -  (26 days ago)
+- [toozej/dotfiles](https://github.com/toozej/dotfiles) -  (27 days ago)
 
 #### ⭐ Recently starred repositories
 
-- [chrissotraidis/projectreach](https://github.com/chrissotraidis/projectreach) - Native Halo CE on MacOS, iOS, and iPadOS
+- [chrissotraidis/projectreach](https://github.com/chrissotraidis/projectreach) - Halo: Combat Evolved on iPhone and iPad. The Xbox edition with online matches of up to 128 players and the original campaign, plus Halo Custom Edition with its community servers. Bring your own game and build it on your Mac.
 - [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) - Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
 - [arnegiacomo/fugleramme](https://github.com/arnegiacomo/fugleramme) - Bird frame for Raspberry Pi - real-time bird detection by audio, fully local AI, rendered as real, hand-cut 1800s bird illustrations. On an e-ink panel, a TV, or any screen.
 - [caarlos0/svu](https://github.com/caarlos0/svu) - semantic version utility

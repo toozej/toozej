@@ -12,21 +12,21 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [toozej/python-starter](https://github.com/toozej/python-starter) -  (8 hours ago)
-- [toozej/monogo](https://github.com/toozej/monogo) -  (10 hours ago)
-- [toozej/tools](https://github.com/toozej/tools) -  (10 hours ago)
-- [toozej/travels](https://github.com/toozej/travels) -  (11 hours ago)
-- [toozej/links](https://github.com/toozej/links) -  (11 hours ago)
-- [toozej/vncaa](https://github.com/toozej/vncaa) -  (11 hours ago)
-- [toozej/docker-goatcounter](https://github.com/toozej/docker-goatcounter) -  (11 hours ago)
-- [CyberTimon/RapidRAW-DngLab](https://github.com/CyberTimon/RapidRAW-DngLab) -  (2 days ago)
-- [toozej/EXIFizer](https://github.com/toozej/EXIFizer) -  (7 days ago)
-- [toozej/kemo](https://github.com/toozej/kemo) -  (17 days ago)
+- [toozej/monogo](https://github.com/toozej/monogo) -  (5 hours ago)
+- [toozej/python-starter](https://github.com/toozej/python-starter) -  (1 day ago)
+- [toozej/travels](https://github.com/toozej/travels) -  (1 day ago)
+- [toozej/links](https://github.com/toozej/links) -  (1 day ago)
+- [toozej/vncaa](https://github.com/toozej/vncaa) -  (1 day ago)
+- [toozej/docker-goatcounter](https://github.com/toozej/docker-goatcounter) -  (1 day ago)
+- [toozej/tools](https://github.com/toozej/tools) -  (2 days ago)
+- [CyberTimon/RapidRAW-DngLab](https://github.com/CyberTimon/RapidRAW-DngLab) -  (3 days ago)
+- [toozej/EXIFizer](https://github.com/toozej/EXIFizer) -  (8 days ago)
+- [toozej/kemo](https://github.com/toozej/kemo) -  (18 days ago)
 
 #### ⭐ Recently starred repositories
 
+- [unknownbrackets/maxcso](https://github.com/unknownbrackets/maxcso) - Fast cso compressor
+- [regclient/regclient](https://github.com/regclient/regclient) - Docker and OCI Registry Client in Go and tooling using those libraries.
 - [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
 - [microsoft/quicksand](https://github.com/microsoft/quicksand) - Quickly sandbox your AI agent.
 - [tgeorgiadis/quiver-launcher](https://github.com/tgeorgiadis/quiver-launcher) - A modern launcher for downloading, installing, and running apps from GitHub and GitLab releases. With a personal library, community catalog subscriptions, and flexible filtering.
-- [s-ishrak/boox-notion-sync](https://github.com/s-ishrak/boox-notion-sync) - 
-- [stephenrobles/iPod-Pro-Max](https://github.com/stephenrobles/iPod-Pro-Max) - Free Mac app that syncs music, videos, podcasts and photos to classic click-wheel iPods. No iTunes required.

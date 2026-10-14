@@ -12,21 +12,21 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [toozej/git-peak-extended](https://github.com/toozej/git-peak-extended) -  (4 hours ago)
-- [toozej/monogo](https://github.com/toozej/monogo) -  (1 day ago)
-- [toozej/python-starter](https://github.com/toozej/python-starter) -  (2 days ago)
-- [toozej/travels](https://github.com/toozej/travels) -  (2 days ago)
-- [toozej/links](https://github.com/toozej/links) -  (2 days ago)
-- [toozej/vncaa](https://github.com/toozej/vncaa) -  (2 days ago)
-- [toozej/docker-goatcounter](https://github.com/toozej/docker-goatcounter) -  (2 days ago)
-- [toozej/EXIFizer](https://github.com/toozej/EXIFizer) -  (2 days ago)
-- [toozej/tools](https://github.com/toozej/tools) -  (3 days ago)
-- [CyberTimon/RapidRAW-DngLab](https://github.com/CyberTimon/RapidRAW-DngLab) -  (4 days ago)
+- [toozej/homebrew-tap](https://github.com/toozej/homebrew-tap) -  (7 hours ago)
+- [toozej/monogo](https://github.com/toozej/monogo) -  (7 hours ago)
+- [toozej/git-peak-extended](https://github.com/toozej/git-peak-extended) -  (1 day ago)
+- [toozej/travels](https://github.com/toozej/travels) -  (1 day ago)
+- [toozej/python-starter](https://github.com/toozej/python-starter) -  (3 days ago)
+- [toozej/links](https://github.com/toozej/links) -  (3 days ago)
+- [toozej/vncaa](https://github.com/toozej/vncaa) -  (3 days ago)
+- [toozej/docker-goatcounter](https://github.com/toozej/docker-goatcounter) -  (3 days ago)
+- [toozej/EXIFizer](https://github.com/toozej/EXIFizer) -  (3 days ago)
+- [toozej/tools](https://github.com/toozej/tools) -  (4 days ago)
 
 #### ⭐ Recently starred repositories
 
+- [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
+- [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) - An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.
 - [unknownbrackets/maxcso](https://github.com/unknownbrackets/maxcso) - Fast cso compressor
 - [regclient/regclient](https://github.com/regclient/regclient) - Docker and OCI Registry Client in Go and tooling using those libraries.
-- [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
-- [microsoft/quicksand](https://github.com/microsoft/quicksand) - Quickly sandbox your AI agent.
-- [tgeorgiadis/quiver-launcher](https://github.com/tgeorgiadis/quiver-launcher) - A modern launcher for downloading, installing, and running apps from GitHub and GitLab releases. With a personal library, community catalog subscriptions, and flexible filtering.

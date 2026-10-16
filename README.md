@@ -12,16 +12,16 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [toozej/travels](https://github.com/toozej/travels) -  (23 hours ago)
-- [toozej/monogo](https://github.com/toozej/monogo) -  (1 day ago)
-- [toozej/homebrew-tap](https://github.com/toozej/homebrew-tap) -  (1 day ago)
-- [toozej/git-peak-extended](https://github.com/toozej/git-peak-extended) -  (2 days ago)
-- [toozej/python-starter](https://github.com/toozej/python-starter) -  (4 days ago)
-- [toozej/links](https://github.com/toozej/links) -  (4 days ago)
-- [toozej/vncaa](https://github.com/toozej/vncaa) -  (4 days ago)
-- [toozej/docker-goatcounter](https://github.com/toozej/docker-goatcounter) -  (4 days ago)
-- [toozej/EXIFizer](https://github.com/toozej/EXIFizer) -  (4 days ago)
-- [toozej/tools](https://github.com/toozej/tools) -  (5 days ago)
+- [toozej/monogo](https://github.com/toozej/monogo) -  (12 hours ago)
+- [toozej/homebrew-tap](https://github.com/toozej/homebrew-tap) -  (22 hours ago)
+- [toozej/travels](https://github.com/toozej/travels) -  (1 day ago)
+- [toozej/git-peak-extended](https://github.com/toozej/git-peak-extended) -  (3 days ago)
+- [toozej/python-starter](https://github.com/toozej/python-starter) -  (5 days ago)
+- [toozej/links](https://github.com/toozej/links) -  (5 days ago)
+- [toozej/vncaa](https://github.com/toozej/vncaa) -  (5 days ago)
+- [toozej/docker-goatcounter](https://github.com/toozej/docker-goatcounter) -  (5 days ago)
+- [toozej/EXIFizer](https://github.com/toozej/EXIFizer) -  (5 days ago)
+- [toozej/tools](https://github.com/toozej/tools) -  (6 days ago)
 
 #### ⭐ Recently starred repositories
 

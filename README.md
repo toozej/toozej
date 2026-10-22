@@ -12,16 +12,16 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [toozej/galleriesdeluxe](https://github.com/toozej/galleriesdeluxe) -  (13 hours ago)
-- [toozej/gallerydeluxe](https://github.com/toozej/gallerydeluxe) -  (21 hours ago)
-- [toozej/hugo-mod-misc](https://github.com/toozej/hugo-mod-misc) -  (21 hours ago)
-- [toozej/pebble-darkroom](https://github.com/toozej/pebble-darkroom) -  (1 day ago)
+- [toozej/galleriesdeluxe](https://github.com/toozej/galleriesdeluxe) -  (1 day ago)
+- [toozej/gallerydeluxe](https://github.com/toozej/gallerydeluxe) -  (1 day ago)
+- [toozej/hugo-mod-misc](https://github.com/toozej/hugo-mod-misc) -  (1 day ago)
 - [toozej/travels](https://github.com/toozej/travels) -  (1 day ago)
-- [toozej/links](https://github.com/toozej/links) -  (1 day ago)
-- [toozej/python-starter](https://github.com/toozej/python-starter) -  (3 days ago)
-- [toozej/EXIFizer](https://github.com/toozej/EXIFizer) -  (3 days ago)
-- [toozej/tools](https://github.com/toozej/tools) -  (4 days ago)
-- [toozej/homebrew-tap](https://github.com/toozej/homebrew-tap) -  (5 days ago)
+- [toozej/pebble-darkroom](https://github.com/toozej/pebble-darkroom) -  (2 days ago)
+- [toozej/links](https://github.com/toozej/links) -  (2 days ago)
+- [toozej/python-starter](https://github.com/toozej/python-starter) -  (4 days ago)
+- [toozej/EXIFizer](https://github.com/toozej/EXIFizer) -  (4 days ago)
+- [toozej/tools](https://github.com/toozej/tools) -  (5 days ago)
+- [toozej/homebrew-tap](https://github.com/toozej/homebrew-tap) -  (6 days ago)
 
 #### ⭐ Recently starred repositories
 

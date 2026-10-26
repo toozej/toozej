@@ -12,16 +12,16 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [toozej/tools](https://github.com/toozej/tools) -  (5 hours ago)
-- [toozej/python-starter](https://github.com/toozej/python-starter) -  (7 hours ago)
-- [toozej/monogo](https://github.com/toozej/monogo) -  (9 hours ago)
-- [toozej/EXIFizer](https://github.com/toozej/EXIFizer) -  (12 hours ago)
-- [toozej/dinnerclub](https://github.com/toozej/dinnerclub) -  (2 days ago)
-- [toozej/homebrew-tap](https://github.com/toozej/homebrew-tap) -  (2 days ago)
-- [toozej/galleriesdeluxe](https://github.com/toozej/galleriesdeluxe) -  (4 days ago)
-- [toozej/gallerydeluxe](https://github.com/toozej/gallerydeluxe) -  (4 days ago)
-- [toozej/hugo-mod-misc](https://github.com/toozej/hugo-mod-misc) -  (4 days ago)
-- [toozej/travels](https://github.com/toozej/travels) -  (4 days ago)
+- [toozej/git-peak-extended](https://github.com/toozej/git-peak-extended) -  (2 hours ago)
+- [toozej/homebrew-tap](https://github.com/toozej/homebrew-tap) -  (6 hours ago)
+- [toozej/monogo](https://github.com/toozej/monogo) -  (7 hours ago)
+- [toozej/EXIFizer](https://github.com/toozej/EXIFizer) -  (11 hours ago)
+- [toozej/tools](https://github.com/toozej/tools) -  (1 day ago)
+- [toozej/python-starter](https://github.com/toozej/python-starter) -  (1 day ago)
+- [toozej/dinnerclub](https://github.com/toozej/dinnerclub) -  (3 days ago)
+- [toozej/galleriesdeluxe](https://github.com/toozej/galleriesdeluxe) -  (5 days ago)
+- [toozej/gallerydeluxe](https://github.com/toozej/gallerydeluxe) -  (5 days ago)
+- [toozej/hugo-mod-misc](https://github.com/toozej/hugo-mod-misc) -  (5 days ago)
 
 #### ⭐ Recently starred repositories
 

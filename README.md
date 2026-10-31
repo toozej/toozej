@@ -12,20 +12,20 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [toozej/travels](https://github.com/toozej/travels) -  (1 day ago)
-- [toozej/homebrew-tap](https://github.com/toozej/homebrew-tap) -  (2 days ago)
-- [toozej/monogo](https://github.com/toozej/monogo) -  (2 days ago)
-- [toozej/tools](https://github.com/toozej/tools) -  (3 days ago)
-- [toozej/genARTrated](https://github.com/toozej/genARTrated) -  (3 days ago)
-- [toozej/sn2ssg-py](https://github.com/toozej/sn2ssg-py) -  (3 days ago)
-- [toozej/git-peak-extended](https://github.com/toozej/git-peak-extended) -  (4 days ago)
-- [toozej/EXIFizer](https://github.com/toozej/EXIFizer) -  (4 days ago)
-- [toozej/python-starter](https://github.com/toozej/python-starter) -  (5 days ago)
-- [toozej/dinnerclub](https://github.com/toozej/dinnerclub) -  (7 days ago)
+- [toozej/python-starter](https://github.com/toozej/python-starter) -  (2 days ago)
+- [toozej/travels](https://github.com/toozej/travels) -  (2 days ago)
+- [toozej/homebrew-tap](https://github.com/toozej/homebrew-tap) -  (3 days ago)
+- [toozej/monogo](https://github.com/toozej/monogo) -  (3 days ago)
+- [toozej/tools](https://github.com/toozej/tools) -  (4 days ago)
+- [toozej/genARTrated](https://github.com/toozej/genARTrated) -  (4 days ago)
+- [toozej/sn2ssg-py](https://github.com/toozej/sn2ssg-py) -  (4 days ago)
+- [toozej/git-peak-extended](https://github.com/toozej/git-peak-extended) -  (5 days ago)
+- [toozej/EXIFizer](https://github.com/toozej/EXIFizer) -  (5 days ago)
+- [toozej/dinnerclub](https://github.com/toozej/dinnerclub) -  (8 days ago)
 
 #### ⭐ Recently starred repositories
 
-- [ahonn/GRKit](https://github.com/ahonn/GRKit) - Film looks, XPan crops, and date stamps for RICOH GR III, GR IIIx, and GR IV. Runs from the SD card, no firmware flashing.
+- [ahonn/GRKit](https://github.com/ahonn/GRKit) - Film looks, XPan crops, and date Imprint for RICOH GR III, GR IIIx, and GR IV. Runs from the SD card, no firmware flashing.
 - [jiijii0/soup-engine](https://github.com/jiijii0/soup-engine) - Film looks, in the camera, on a Canon EOS 5D Classic. (beta)
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.

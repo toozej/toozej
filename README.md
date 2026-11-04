@@ -4,24 +4,24 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### 👨💻 Repositories I created recently
 
+- [hugo-themes-pages](https://github.com/toozej/hugo-themes-pages) - Public example-site demos for Hugo themes, built from private source repositories with GitHub Actions.
 - [RapidRAW-DngLab](https://github.com/toozej/RapidRAW-DngLab) - Camera RAW to DNG file format converter
 - [links](https://github.com/toozej/links) - A Hugo link page using the LucentLink theme deployed to GitHub Pages by GitHub Actions.
 - [hugo-mod-misc](https://github.com/toozej/hugo-mod-misc) - Some useful Hugo Modules.
 - [tabi-transit](https://github.com/toozej/tabi-transit) - Tabi is a Portland-area transit application for iOS and Android. It uses an Expo React Native client and Go services backed by PostgreSQL/PostGIS.
-- [monogo](https://github.com/toozej/monogo) - Go mono-repo
 
 #### ⛏️ What I've been working on
 
-- [toozej/monogo](https://github.com/toozej/monogo) -  (3 hours ago)
-- [toozej/homebrew-tap](https://github.com/toozej/homebrew-tap) -  (4 hours ago)
-- [toozej/EXIFizer](https://github.com/toozej/EXIFizer) -  (2 days ago)
+- [toozej/ansible](https://github.com/toozej/ansible) -  (4 hours ago)
+- [toozej/hugo-themes-pages](https://github.com/toozej/hugo-themes-pages) -  (11 hours ago)
+- [toozej/tabi-transit](https://github.com/toozej/tabi-transit) -  (13 hours ago)
+- [toozej/monogo](https://github.com/toozej/monogo) -  (1 day ago)
+- [toozej/homebrew-tap](https://github.com/toozej/homebrew-tap) -  (1 day ago)
+- [toozej/links](https://github.com/toozej/links) -  (1 day ago)
 - [toozej/python-starter](https://github.com/toozej/python-starter) -  (2 days ago)
-- [toozej/tools](https://github.com/toozej/tools) -  (3 days ago)
-- [toozej/travels](https://github.com/toozej/travels) -  (4 days ago)
-- [toozej/genARTrated](https://github.com/toozej/genARTrated) -  (7 days ago)
-- [toozej/sn2ssg-py](https://github.com/toozej/sn2ssg-py) -  (7 days ago)
-- [toozej/git-peak-extended](https://github.com/toozej/git-peak-extended) -  (8 days ago)
-- [toozej/dinnerclub](https://github.com/toozej/dinnerclub) -  (11 days ago)
+- [toozej/EXIFizer](https://github.com/toozej/EXIFizer) -  (3 days ago)
+- [toozej/tools](https://github.com/toozej/tools) -  (4 days ago)
+- [toozej/travels](https://github.com/toozej/travels) -  (5 days ago)
 
 #### ⭐ Recently starred repositories
 

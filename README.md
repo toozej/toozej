@@ -12,21 +12,21 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [toozej/photos](https://github.com/toozej/photos) -  (7 hours ago)
-- [toozej/ansible](https://github.com/toozej/ansible) -  (1 day ago)
+- [toozej/photos](https://github.com/toozej/photos) -  (1 day ago)
 - [toozej/hugo-themes-pages](https://github.com/toozej/hugo-themes-pages) -  (1 day ago)
-- [toozej/tabi-transit](https://github.com/toozej/tabi-transit) -  (1 day ago)
-- [toozej/homebrew-tap](https://github.com/toozej/homebrew-tap) -  (2 days ago)
+- [toozej/ansible](https://github.com/toozej/ansible) -  (2 days ago)
 - [toozej/monogo](https://github.com/toozej/monogo) -  (2 days ago)
+- [toozej/tabi-transit](https://github.com/toozej/tabi-transit) -  (2 days ago)
 - [toozej/travels](https://github.com/toozej/travels) -  (2 days ago)
-- [toozej/links](https://github.com/toozej/links) -  (2 days ago)
-- [toozej/python-starter](https://github.com/toozej/python-starter) -  (3 days ago)
-- [toozej/EXIFizer](https://github.com/toozej/EXIFizer) -  (4 days ago)
+- [toozej/homebrew-tap](https://github.com/toozej/homebrew-tap) -  (3 days ago)
+- [toozej/links](https://github.com/toozej/links) -  (3 days ago)
+- [toozej/python-starter](https://github.com/toozej/python-starter) -  (4 days ago)
+- [toozej/EXIFizer](https://github.com/toozej/EXIFizer) -  (5 days ago)
 
 #### ⭐ Recently starred repositories
 
+- [Ansub/tv-detox](https://github.com/Ansub/tv-detox) - Make an old Android TV fast again with Claude Code or Codex: a tiny ad-free home screen plus the prompt to clean it up
 - [ahonn/GRKit](https://github.com/ahonn/GRKit) - Film looks, XPan crops, and date Imprint for RICOH GR III, GR IIIx, and GR IV. Runs from the SD card, no firmware flashing.
 - [jiijii0/soup-engine](https://github.com/jiijii0/soup-engine) - Film looks, in the camera, on a Canon EOS 5D Classic. (beta)
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
-- [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) - An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.

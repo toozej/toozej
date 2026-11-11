@@ -12,16 +12,16 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [toozej/travels](https://github.com/toozej/travels) -  (15 hours ago)
-- [toozej/python-starter](https://github.com/toozej/python-starter) -  (2 days ago)
-- [toozej/EXIFizer](https://github.com/toozej/EXIFizer) -  (2 days ago)
-- [CyberTimon/RapidRAW-DngLab](https://github.com/CyberTimon/RapidRAW-DngLab) -  (2 days ago)
-- [toozej/tools](https://github.com/toozej/tools) -  (3 days ago)
-- [toozej/photos](https://github.com/toozej/photos) -  (5 days ago)
-- [toozej/hugo-themes-pages](https://github.com/toozej/hugo-themes-pages) -  (5 days ago)
-- [toozej/ansible](https://github.com/toozej/ansible) -  (6 days ago)
-- [toozej/monogo](https://github.com/toozej/monogo) -  (6 days ago)
-- [toozej/tabi-transit](https://github.com/toozej/tabi-transit) -  (6 days ago)
+- [toozej/genARTrated](https://github.com/toozej/genARTrated) -  (1 day ago)
+- [toozej/travels](https://github.com/toozej/travels) -  (1 day ago)
+- [toozej/sn2ssg-py](https://github.com/toozej/sn2ssg-py) -  (1 day ago)
+- [toozej/python-starter](https://github.com/toozej/python-starter) -  (3 days ago)
+- [toozej/EXIFizer](https://github.com/toozej/EXIFizer) -  (3 days ago)
+- [CyberTimon/RapidRAW-DngLab](https://github.com/CyberTimon/RapidRAW-DngLab) -  (3 days ago)
+- [toozej/tools](https://github.com/toozej/tools) -  (4 days ago)
+- [toozej/photos](https://github.com/toozej/photos) -  (6 days ago)
+- [toozej/hugo-themes-pages](https://github.com/toozej/hugo-themes-pages) -  (6 days ago)
+- [toozej/ansible](https://github.com/toozej/ansible) -  (7 days ago)
 
 #### ⭐ Recently starred repositories
 

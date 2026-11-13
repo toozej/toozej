@@ -12,16 +12,16 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [toozej/genARTrated](https://github.com/toozej/genARTrated) -  (2 days ago)
-- [toozej/travels](https://github.com/toozej/travels) -  (2 days ago)
-- [toozej/sn2ssg-py](https://github.com/toozej/sn2ssg-py) -  (2 days ago)
-- [toozej/python-starter](https://github.com/toozej/python-starter) -  (4 days ago)
-- [toozej/EXIFizer](https://github.com/toozej/EXIFizer) -  (4 days ago)
-- [CyberTimon/RapidRAW-DngLab](https://github.com/CyberTimon/RapidRAW-DngLab) -  (4 days ago)
-- [toozej/tools](https://github.com/toozej/tools) -  (5 days ago)
-- [toozej/photos](https://github.com/toozej/photos) -  (7 days ago)
-- [toozej/hugo-themes-pages](https://github.com/toozej/hugo-themes-pages) -  (7 days ago)
-- [toozej/ansible](https://github.com/toozej/ansible) -  (8 days ago)
+- [toozej/homebrew-tap](https://github.com/toozej/homebrew-tap) -  (12 hours ago)
+- [toozej/genARTrated](https://github.com/toozej/genARTrated) -  (3 days ago)
+- [toozej/travels](https://github.com/toozej/travels) -  (3 days ago)
+- [toozej/sn2ssg-py](https://github.com/toozej/sn2ssg-py) -  (3 days ago)
+- [toozej/python-starter](https://github.com/toozej/python-starter) -  (5 days ago)
+- [toozej/EXIFizer](https://github.com/toozej/EXIFizer) -  (5 days ago)
+- [CyberTimon/RapidRAW-DngLab](https://github.com/CyberTimon/RapidRAW-DngLab) -  (5 days ago)
+- [toozej/tools](https://github.com/toozej/tools) -  (6 days ago)
+- [toozej/photos](https://github.com/toozej/photos) -  (8 days ago)
+- [toozej/hugo-themes-pages](https://github.com/toozej/hugo-themes-pages) -  (8 days ago)
 
 #### ⭐ Recently starred repositories
 

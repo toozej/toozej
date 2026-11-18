@@ -12,16 +12,16 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [toozej/travels](https://github.com/toozej/travels) -  (15 hours ago)
-- [toozej/python-starter](https://github.com/toozej/python-starter) -  (2 days ago)
-- [toozej/photos](https://github.com/toozej/photos) -  (2 days ago)
-- [toozej/docker-goatcounter](https://github.com/toozej/docker-goatcounter) -  (2 days ago)
-- [toozej/links](https://github.com/toozej/links) -  (3 days ago)
-- [toozej/tools](https://github.com/toozej/tools) -  (3 days ago)
-- [toozej/homebrew-tap](https://github.com/toozej/homebrew-tap) -  (4 days ago)
-- [toozej/monogo](https://github.com/toozej/monogo) -  (4 days ago)
-- [toozej/genARTrated](https://github.com/toozej/genARTrated) -  (7 days ago)
-- [toozej/sn2ssg-py](https://github.com/toozej/sn2ssg-py) -  (7 days ago)
+- [toozej/travels](https://github.com/toozej/travels) -  (1 day ago)
+- [toozej/python-starter](https://github.com/toozej/python-starter) -  (3 days ago)
+- [toozej/photos](https://github.com/toozej/photos) -  (3 days ago)
+- [toozej/docker-goatcounter](https://github.com/toozej/docker-goatcounter) -  (3 days ago)
+- [toozej/links](https://github.com/toozej/links) -  (4 days ago)
+- [toozej/tools](https://github.com/toozej/tools) -  (4 days ago)
+- [toozej/homebrew-tap](https://github.com/toozej/homebrew-tap) -  (5 days ago)
+- [toozej/monogo](https://github.com/toozej/monogo) -  (5 days ago)
+- [toozej/genARTrated](https://github.com/toozej/genARTrated) -  (8 days ago)
+- [toozej/sn2ssg-py](https://github.com/toozej/sn2ssg-py) -  (8 days ago)
 
 #### ⭐ Recently starred repositories
 

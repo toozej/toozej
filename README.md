@@ -12,21 +12,21 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [toozej/links](https://github.com/toozej/links) -  (12 hours ago)
-- [toozej/tools](https://github.com/toozej/tools) -  (1 day ago)
-- [toozej/travels](https://github.com/toozej/travels) -  (1 day ago)
-- [toozej/python-starter](https://github.com/toozej/python-starter) -  (5 days ago)
-- [toozej/photos](https://github.com/toozej/photos) -  (5 days ago)
-- [toozej/docker-goatcounter](https://github.com/toozej/docker-goatcounter) -  (5 days ago)
-- [toozej/homebrew-tap](https://github.com/toozej/homebrew-tap) -  (7 days ago)
-- [toozej/monogo](https://github.com/toozej/monogo) -  (7 days ago)
-- [toozej/genARTrated](https://github.com/toozej/genARTrated) -  (10 days ago)
-- [toozej/sn2ssg-py](https://github.com/toozej/sn2ssg-py) -  (10 days ago)
+- [toozej/tools](https://github.com/toozej/tools) -  (13 hours ago)
+- [toozej/monogo](https://github.com/toozej/monogo) -  (2 days ago)
+- [toozej/links](https://github.com/toozej/links) -  (2 days ago)
+- [toozej/travels](https://github.com/toozej/travels) -  (2 days ago)
+- [toozej/python-starter](https://github.com/toozej/python-starter) -  (6 days ago)
+- [toozej/photos](https://github.com/toozej/photos) -  (6 days ago)
+- [toozej/docker-goatcounter](https://github.com/toozej/docker-goatcounter) -  (6 days ago)
+- [toozej/homebrew-tap](https://github.com/toozej/homebrew-tap) -  (8 days ago)
+- [toozej/genARTrated](https://github.com/toozej/genARTrated) -  (11 days ago)
+- [toozej/sn2ssg-py](https://github.com/toozej/sn2ssg-py) -  (11 days ago)
 
 #### ⭐ Recently starred repositories
 
+- [bluesky-social/slagworks](https://github.com/bluesky-social/slagworks) - Bare-metal provisioning: PXE boot, OS imaging, commissioning, power management, NetBox sync
 - [addy999/luxe](https://github.com/addy999/luxe) - Simple, opinionated RAW photo editor 
 - [murdrae/grmod-grkit-films](https://github.com/murdrae/grmod-grkit-films) - GR Mod 0.8.8 with GRKit&#39;s film looks (incl. hue sectors) built into GR III / IIIx firmware films
 - [Ansub/tv-detox](https://github.com/Ansub/tv-detox) - Make an old Android TV fast again with Claude Code or Codex: a tiny ad-free home screen plus the prompt to clean it up
 - [ahonn/GRKit](https://github.com/ahonn/GRKit) - Film looks, XPan crops, and date Imprint for RICOH GR III, GR IIIx, and GR IV. Runs from the SD card, no firmware flashing.
-- [jiijii0/soup-engine](https://github.com/jiijii0/soup-engine) - Film looks, in the camera, on a Canon EOS 5D Classic. (beta)

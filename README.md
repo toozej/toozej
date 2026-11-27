@@ -12,16 +12,16 @@ I'm toozej: a DevOps & Infrastructure engineer, audiophile, mountain fiend, phot
 
 #### ⛏️ What I've been working on
 
-- [toozej/homebrew-tap](https://github.com/toozej/homebrew-tap) -  (1 day ago)
-- [toozej/monogo](https://github.com/toozej/monogo) -  (1 day ago)
-- [toozej/travels](https://github.com/toozej/travels) -  (2 days ago)
-- [toozej/tools](https://github.com/toozej/tools) -  (3 days ago)
-- [toozej/git-peak-extended](https://github.com/toozej/git-peak-extended) -  (3 days ago)
-- [toozej/python-starter](https://github.com/toozej/python-starter) -  (4 days ago)
-- [toozej/hugo-themes-pages](https://github.com/toozej/hugo-themes-pages) -  (6 days ago)
-- [toozej/links](https://github.com/toozej/links) -  (6 days ago)
-- [toozej/photos](https://github.com/toozej/photos) -  (11 days ago)
-- [toozej/docker-goatcounter](https://github.com/toozej/docker-goatcounter) -  (11 days ago)
+- [toozej/homebrew-tap](https://github.com/toozej/homebrew-tap) -  (2 days ago)
+- [toozej/monogo](https://github.com/toozej/monogo) -  (2 days ago)
+- [toozej/travels](https://github.com/toozej/travels) -  (3 days ago)
+- [toozej/tools](https://github.com/toozej/tools) -  (4 days ago)
+- [toozej/git-peak-extended](https://github.com/toozej/git-peak-extended) -  (4 days ago)
+- [toozej/python-starter](https://github.com/toozej/python-starter) -  (5 days ago)
+- [toozej/hugo-themes-pages](https://github.com/toozej/hugo-themes-pages) -  (7 days ago)
+- [toozej/links](https://github.com/toozej/links) -  (7 days ago)
+- [toozej/photos](https://github.com/toozej/photos) -  (12 days ago)
+- [toozej/docker-goatcounter](https://github.com/toozej/docker-goatcounter) -  (12 days ago)
 
 #### ⭐ Recently starred repositories
 
